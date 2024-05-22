@@ -11,15 +11,15 @@ Awesome Programming Courses is a collection of curated learning paths spanning d
 
 Linux is one of the most popular operating systems in the world. It is used in everything from desktop computers to servers and even mobile devices. This skill tree will teach you how to use Linux from the command line, as well as some basic system administration tasks like installing software and managing users.
 
-|   Index | Name                                                             | Level   | Repo                                                                       | Link                                                                            |
-|---------|------------------------------------------------------------------|---------|----------------------------------------------------------------------------|---------------------------------------------------------------------------------|
-|       1 | [Quick Start with Linux](#quick-start-with-linux)                | ★☆☆     | [Repo](https://github.com/labex-labs/quick-start-with-linux)               | [Start Learning](https://labex.io/courses/quick-start-with-linux)               |
-|       2 | [Linux for Noobs](#linux-for-noobs)                              | ★★☆     | [Repo](https://github.com/labex-labs/linux-for-noobs)                      | [Start Learning](https://labex.io/courses/linux-for-noobs)                      |
-|       3 | [Linux In-Depth Mastery](#linux-in-depth-mastery)                | ★☆☆     | [Repo](https://github.com/labex-labs/linux-in-depth-mastery)               | [Start Learning](https://labex.io/courses/linux-in-depth-mastery)               |
-|       4 | [Practice Linux Commands](#linux-basic-commands-practice-online) | ★★☆     | [Repo](https://github.com/labex-labs/linux-basic-commands-practice-online) | [Start Learning](https://labex.io/courses/linux-basic-commands-practice-online) |
-|       5 | [Linux Practice Plus](#linux-practice-plus)                      | ★☆☆     | [Repo](https://github.com/labex-labs/linux-practice-plus)                  | [Start Learning](https://labex.io/courses/linux-practice-plus)                  |
-|       6 | [Quick Start with Shell](#quick-start-with-shell)                | ★☆☆     | [Repo](https://github.com/labex-labs/quick-start-with-shell)               | [Start Learning](https://labex.io/courses/quick-start-with-shell)               |
-|       7 | [Shell Practice Plus](#shell-practice-plus)                      | ★☆☆     | [Repo](https://github.com/labex-labs/shell-practice-plus)                  | [Start Learning](https://labex.io/courses/shell-practice-plus)                  |
+|   Index | Name                                                | Level   | Repo                                                                       | Link                                                                            |
+|---------|-----------------------------------------------------|---------|----------------------------------------------------------------------------|---------------------------------------------------------------------------------|
+|       1 | [Quick Start with Linux](#quick-start-with-linux)   | ★☆☆     | [Repo](https://github.com/labex-labs/quick-start-with-linux)               | [Start Learning](https://labex.io/courses/quick-start-with-linux)               |
+|       2 | [Linux for Noobs](#linux-for-noobs)                 | ★★☆     | [Repo](https://github.com/labex-labs/linux-for-noobs)                      | [Start Learning](https://labex.io/courses/linux-for-noobs)                      |
+|       3 | [Linux In-Depth Mastery](#linux-in-depth-mastery)   | ★☆☆     | [Repo](https://github.com/labex-labs/linux-in-depth-mastery)               | [Start Learning](https://labex.io/courses/linux-in-depth-mastery)               |
+|       4 | [Practice Linux Commands](#practice-linux-commands) | ★★☆     | [Repo](https://github.com/labex-labs/linux-basic-commands-practice-online) | [Start Learning](https://labex.io/courses/linux-basic-commands-practice-online) |
+|       5 | [Linux Practice Plus](#linux-practice-plus)         | ★☆☆     | [Repo](https://github.com/labex-labs/linux-practice-plus)                  | [Start Learning](https://labex.io/courses/linux-practice-plus)                  |
+|       6 | [Quick Start with Shell](#quick-start-with-shell)   | ★☆☆     | [Repo](https://github.com/labex-labs/quick-start-with-shell)               | [Start Learning](https://labex.io/courses/quick-start-with-shell)               |
+|       7 | [Shell Practice Plus](#shell-practice-plus)         | ★☆☆     | [Repo](https://github.com/labex-labs/shell-practice-plus)                  | [Start Learning](https://labex.io/courses/shell-practice-plus)                  |
 
 ---
 ### Quick Start with Linux
@@ -233,9 +233,9 @@ In this course, You will practice more labs of Docker. This will help you to mas
 
 Alibaba Cloud is one of the world's largest cloud computing companies, providing scalable, secure, and reliable cloud computing services globally to accelerate digitalization empowered by comprehensive cloud products and solutions.
 
-|   Index | Name                                                      | Level   | Repo                                                            | Link                                                                 |
-|---------|-----------------------------------------------------------|---------|-----------------------------------------------------------------|----------------------------------------------------------------------|
-|       1 | [A Beginner's Guide to LabEx](#a-beginner-guide-to-labex) | ★☆☆     | [Repo](https://github.com/labex-labs/a-beginner-guide-to-labex) | [Start Learning](https://labex.io/courses/a-beginner-guide-to-labex) |
+|   Index | Name                                                        | Level   | Repo                                                            | Link                                                                 |
+|---------|-------------------------------------------------------------|---------|-----------------------------------------------------------------|----------------------------------------------------------------------|
+|       1 | [A Beginner's Guide to LabEx](#a-beginner's-guide-to-labex) | ★☆☆     | [Repo](https://github.com/labex-labs/a-beginner-guide-to-labex) | [Start Learning](https://labex.io/courses/a-beginner-guide-to-labex) |
 
 ---
 ### A Beginner's Guide to LabEx
@@ -443,8 +443,8 @@ In this path, you will learn and practice basic C++ programming. Then, you will 
 
 |   Index | Name                                          | Level   | Repo                                                       | Link                                                            |
 |---------|-----------------------------------------------|---------|------------------------------------------------------------|-----------------------------------------------------------------|
-|       1 | [Quick Start with C++](#quick-start-with-cpp) | ★☆☆     | [Repo](https://github.com/labex-labs/quick-start-with-cpp) | [Start Learning](https://labex.io/courses/quick-start-with-cpp) |
-|       2 | [C++ Practice Plus](#cpp-practice-plus)       | ★☆☆     | [Repo](https://github.com/labex-labs/cpp-practice-plus)    | [Start Learning](https://labex.io/courses/cpp-practice-plus)    |
+|       1 | [Quick Start with C++](#quick-start-with-c++) | ★☆☆     | [Repo](https://github.com/labex-labs/quick-start-with-cpp) | [Start Learning](https://labex.io/courses/quick-start-with-cpp) |
+|       2 | [C++ Practice Plus](#c++-practice-plus)       | ★☆☆     | [Repo](https://github.com/labex-labs/cpp-practice-plus)    | [Start Learning](https://labex.io/courses/cpp-practice-plus)    |
 
 ---
 ### Quick Start with C++
@@ -543,15 +543,15 @@ In this course, You will practice more labs of MySQL. This will help you to mast
 
 Machine learning is the science of programming computers so they can learn from data. It is a subfield of artificial intelligence. Machine learning is closely related to computational statistics, which also focuses on prediction-making through the use of computers. 
 
-|   Index | Name                                                                       | Level   | Repo                                                                     | Link                                                                          |
-|---------|----------------------------------------------------------------------------|---------|--------------------------------------------------------------------------|-------------------------------------------------------------------------------|
-|       1 | [Supervised Learning: Regression](#supervised-learning-regression)         | ★★☆     | [Repo](https://github.com/labex-labs/supervised-learning-regression)     | [Start Learning](https://labex.io/courses/supervised-learning-regression)     |
-|       2 | [Supervised Learning: Classification](#supervised-learning-classification) | ★★☆     | [Repo](https://github.com/labex-labs/supervised-learning-classification) | [Start Learning](https://labex.io/courses/supervised-learning-classification) |
-|       3 | [Unsupervised Learning: Clustering](#unsupervised-learning-clustering)     | ★★☆     | [Repo](https://github.com/labex-labs/unsupervised-learning-clustering)   | [Start Learning](https://labex.io/courses/unsupervised-learning-clustering)   |
-|       4 | [Quick Start with TensorFlow](#quick-start-with-tensorflow)                | ★★☆     | [Repo](https://github.com/labex-labs/quick-start-with-tensorflow)        | [Start Learning](https://labex.io/courses/quick-start-with-tensorflow)        |
-|       5 | [Foundations of Deep Learning](#foundations-of-deep-learning)              | ★★☆     | [Repo](https://github.com/labex-labs/foundations-of-deep-learning)       | [Start Learning](https://labex.io/courses/foundations-of-deep-learning)       |
-|       6 | [Quick Start with OpenCV](#quick-start-with-opencv)                        | ★☆☆     | [Repo](https://github.com/labex-labs/quick-start-with-opencv)            | [Start Learning](https://labex.io/courses/quick-start-with-opencv)            |
-|       7 | [Machine Learning Practice Plus](#ml-practice-plus)                        | ★☆☆     | [Repo](https://github.com/labex-labs/ml-practice-plus)                   | [Start Learning](https://labex.io/courses/ml-practice-plus)                   |
+|   Index | Name                                                                        | Level   | Repo                                                                     | Link                                                                          |
+|---------|-----------------------------------------------------------------------------|---------|--------------------------------------------------------------------------|-------------------------------------------------------------------------------|
+|       1 | [Supervised Learning: Regression](#supervised-learning:-regression)         | ★★☆     | [Repo](https://github.com/labex-labs/supervised-learning-regression)     | [Start Learning](https://labex.io/courses/supervised-learning-regression)     |
+|       2 | [Supervised Learning: Classification](#supervised-learning:-classification) | ★★☆     | [Repo](https://github.com/labex-labs/supervised-learning-classification) | [Start Learning](https://labex.io/courses/supervised-learning-classification) |
+|       3 | [Unsupervised Learning: Clustering](#unsupervised-learning:-clustering)     | ★★☆     | [Repo](https://github.com/labex-labs/unsupervised-learning-clustering)   | [Start Learning](https://labex.io/courses/unsupervised-learning-clustering)   |
+|       4 | [Quick Start with TensorFlow](#quick-start-with-tensorflow)                 | ★★☆     | [Repo](https://github.com/labex-labs/quick-start-with-tensorflow)        | [Start Learning](https://labex.io/courses/quick-start-with-tensorflow)        |
+|       5 | [Foundations of Deep Learning](#foundations-of-deep-learning)               | ★★☆     | [Repo](https://github.com/labex-labs/foundations-of-deep-learning)       | [Start Learning](https://labex.io/courses/foundations-of-deep-learning)       |
+|       6 | [Quick Start with OpenCV](#quick-start-with-opencv)                         | ★☆☆     | [Repo](https://github.com/labex-labs/quick-start-with-opencv)            | [Start Learning](https://labex.io/courses/quick-start-with-opencv)            |
+|       7 | [Machine Learning Practice Plus](#machine-learning-practice-plus)           | ★☆☆     | [Repo](https://github.com/labex-labs/ml-practice-plus)                   | [Start Learning](https://labex.io/courses/ml-practice-plus)                   |
 
 ---
 ### Supervised Learning: Regression
@@ -786,7 +786,7 @@ scikit-learn is a Python library for machine learning. It provides a wide range 
 |   Index | Name                                                            | Level   | Repo                                                                | Link                                                                     |
 |---------|-----------------------------------------------------------------|---------|---------------------------------------------------------------------|--------------------------------------------------------------------------|
 |       1 | [Quick Start with scikit-learn](#quick-start-with-scikit-learn) | ★☆☆     | [Repo](https://github.com/labex-labs/quick-start-with-scikit-learn) | [Start Learning](https://labex.io/courses/quick-start-with-scikit-learn) |
-|       2 | [scikit-learn Practice Plus](#sklearn-practice-plus)            | ★☆☆     | [Repo](https://github.com/labex-labs/sklearn-practice-plus)         | [Start Learning](https://labex.io/courses/sklearn-practice-plus)         |
+|       2 | [scikit-learn Practice Plus](#scikit-learn-practice-plus)       | ★☆☆     | [Repo](https://github.com/labex-labs/sklearn-practice-plus)         | [Start Learning](https://labex.io/courses/sklearn-practice-plus)         |
 
 ---
 ### Quick Start with scikit-learn
@@ -975,7 +975,7 @@ React is a JavaScript library for building user interfaces. It's used by compani
 
 |   Index | Name                                              | Level   | Repo                                                         | Link                                                              |
 |---------|---------------------------------------------------|---------|--------------------------------------------------------------|-------------------------------------------------------------------|
-|       1 | [Get Started with React](#quick-start-with-react) | ★☆☆     | [Repo](https://github.com/labex-labs/quick-start-with-react) | [Start Learning](https://labex.io/courses/quick-start-with-react) |
+|       1 | [Get Started with React](#get-started-with-react) | ★☆☆     | [Repo](https://github.com/labex-labs/quick-start-with-react) | [Start Learning](https://labex.io/courses/quick-start-with-react) |
 |       2 | [React Practice Plus](#react-practice-plus)       | ★☆☆     | [Repo](https://github.com/labex-labs/react-practice-plus)    | [Start Learning](https://labex.io/courses/react-practice-plus)    |
 
 ---
