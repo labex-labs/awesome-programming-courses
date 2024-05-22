@@ -1,12 +1,12 @@
 # Awesome Programming Courses
+Awesome Programming Courses is a collection of curated learning paths spanning diverse topics like programming languages, machine learning, and cybersecurity. It offers comprehensive courses and hands-on labs tailored for learners of all levels, from students to professionals and enthusiasts.
 
 
-
-## <img width="128px" src="https://file.labex.io/path/k5LXo5b82pJm.png">
-
-### Linux
+## <img width="96px" src="https://file.labex.io/path/k5LXo5b82pJm.png">
 
 Linux is one of the most popular operating systems in the world. It is used in everything from desktop computers to servers and even mobile devices. This skill tree will teach you how to use Linux from the command line, as well as some basic system administration tasks like installing software and managing users.
+
+### Linux Courses
 
 |   Index | Cover                                                                                             | Name                    | Level   | Repo                                                                       | Link                                                                            |
 |---------|---------------------------------------------------------------------------------------------------|-------------------------|---------|----------------------------------------------------------------------------|---------------------------------------------------------------------------------|
@@ -19,11 +19,11 @@ Linux is one of the most popular operating systems in the world. It is used in e
 |       7 | <img width='128px' src='https://cover-creator.labex.io/shell-practice-plus.png'>                  | Shell Practice Plus     | ★☆☆     | [Repo](https://github.com/labex-labs/shell-practice-plus)                  | [Start Learning](https://labex.io/courses/shell-practice-plus)                  |
 
 
-## <img width="128px" src="https://file.labex.io/path/E4pVLzVNCjyM.png">
-
-### Python
+## <img width="96px" src="https://file.labex.io/path/E4pVLzVNCjyM.png">
 
 Python is a programming language that has become very popular in recent years. It's used for everything from web development to data science and machine learning. This skill tree will teach you how to use Python from the command line, as well as some basic programming concepts like variables and functions.
+
+### Python Courses
 
 |   Index | Cover                                                                                     | Name                         | Level   | Repo                                                               | Link                                                                    |
 |---------|-------------------------------------------------------------------------------------------|------------------------------|---------|--------------------------------------------------------------------|-------------------------------------------------------------------------|
@@ -37,11 +37,11 @@ Python is a programming language that has become very popular in recent years. I
 |       8 | <img width='128px' src='https://cover-creator.labex.io/thousands-python-challenges.png'>  | Thousands Python Challenges  | ★☆☆     | [Repo](https://github.com/labex-labs/thousands-python-challenges)  | [Start Learning](https://labex.io/courses/thousands-python-challenges)  |
 
 
-## <img width="128px" src="https://file.labex.io/path/X5zPui0XRqNx.png">
-
-### Docker
+## <img width="96px" src="https://file.labex.io/path/X5zPui0XRqNx.png">
 
 Docker is a tool that allows you to run applications in containers. Every container has its own isolated environment, so it's easy to deploy and manage your applications. In this skill tree, you'll learn how to use Docker to build and run containers.
+
+### Docker Courses
 
 |   Index | Cover                                                                                | Name                    | Level   | Repo                                                          | Link                                                               |
 |---------|--------------------------------------------------------------------------------------|-------------------------|---------|---------------------------------------------------------------|--------------------------------------------------------------------|
@@ -50,22 +50,22 @@ Docker is a tool that allows you to run applications in containers. Every contai
 |       3 | <img width='128px' src='https://cover-creator.labex.io/docker-practice-plus.png'>    | Docker Practice Plus    | ★☆☆     | [Repo](https://github.com/labex-labs/docker-practice-plus)    | [Start Learning](https://labex.io/courses/docker-practice-plus)    |
 
 
-## <img width="128px" src="https://file.labex.io/path/vfh4Vv8B8NjB.png">
-
-### Alibaba Cloud
+## <img width="96px" src="https://file.labex.io/path/vfh4Vv8B8NjB.png">
 
 Alibaba Cloud is one of the world's largest cloud computing companies, providing scalable, secure, and reliable cloud computing services globally to accelerate digitalization empowered by comprehensive cloud products and solutions.
+
+### Alibaba Cloud Courses
 
 |   Index | Cover                                                                                  | Name                        | Level   | Repo                                                            | Link                                                                 |
 |---------|----------------------------------------------------------------------------------------|-----------------------------|---------|-----------------------------------------------------------------|----------------------------------------------------------------------|
 |       1 | <img width='128px' src='https://cover-creator.labex.io/a-beginner-guide-to-labex.png'> | A Beginner's Guide to LabEx | ★☆☆     | [Repo](https://github.com/labex-labs/a-beginner-guide-to-labex) | [Start Learning](https://labex.io/courses/a-beginner-guide-to-labex) |
 
 
-## <img width="128px" src="https://file.labex.io/path/RTAa3OE96ESn.png">
-
-### Kubernetes
+## <img width="96px" src="https://file.labex.io/path/RTAa3OE96ESn.png">
 
 Kubernetes is an open-source container orchestration system for automating deployment, scaling, and management of containerized applications. In this skill tree, you'll learn how to use Kubernetes to deploy and manage applications on a cluster of machines.
+
+### Kubernetes Courses
 
 |   Index | Cover                                                                                    | Name                        | Level   | Repo                                                              | Link                                                                   |
 |---------|------------------------------------------------------------------------------------------|-----------------------------|---------|-------------------------------------------------------------------|------------------------------------------------------------------------|
@@ -73,11 +73,11 @@ Kubernetes is an open-source container orchestration system for automating deplo
 |       2 | <img width='128px' src='https://cover-creator.labex.io/kubernetes-practice-plus.png'>    | Kubernetes Practice Plus    | ★☆☆     | [Repo](https://github.com/labex-labs/kubernetes-practice-plus)    | [Start Learning](https://labex.io/courses/kubernetes-practice-plus)    |
 
 
-## <img width="128px" src="https://file.labex.io/path/mlkFQS0wjouP.png">
-
-### Git
+## <img width="96px" src="https://file.labex.io/path/mlkFQS0wjouP.png">
 
 Git is a version control system that allows you to track changes in your code and collaborate with others. It's used by millions of developers around the world, including some of the largest companies in the world. In this skill tree, you'll learn how to use Git to manage your projects and collaborate with others.
+
+### Git Courses
 
 |   Index | Cover                                                                             | Name                 | Level   | Repo                                                       | Link                                                            |
 |---------|-----------------------------------------------------------------------------------|----------------------|---------|------------------------------------------------------------|-----------------------------------------------------------------|
@@ -85,33 +85,33 @@ Git is a version control system that allows you to track changes in your code an
 |       2 | <img width='128px' src='https://cover-creator.labex.io/git-practice-plus.png'>    | Git Practice Plus    | ★☆☆     | [Repo](https://github.com/labex-labs/git-practice-plus)    | [Start Learning](https://labex.io/courses/git-practice-plus)    |
 
 
-## <img width="128px" src="https://file.labex.io/path/PBjrCC7U2Koq.png">
-
-### Ansible
+## <img width="96px" src="https://file.labex.io/path/PBjrCC7U2Koq.png">
 
 Ansible is an open-source software provisioning, configuration management, and application-deployment tool enabling infrastructure as code. It runs on many Unix-like systems, and can configure both Unix-like systems as well as Microsoft Windows. It includes its own declarative language to describe system configuration.
+
+### Ansible Courses
 
 |   Index | Cover                                                                                 | Name                     | Level   | Repo                                                           | Link                                                                |
 |---------|---------------------------------------------------------------------------------------|--------------------------|---------|----------------------------------------------------------------|---------------------------------------------------------------------|
 |       1 | <img width='128px' src='https://cover-creator.labex.io/quick-start-with-ansible.png'> | Quick Start with Ansible | ★☆☆     | [Repo](https://github.com/labex-labs/quick-start-with-ansible) | [Start Learning](https://labex.io/courses/quick-start-with-ansible) |
 
 
-## <img width="128px" src="https://file.labex.io/path/VtELSfa4h1jh.png">
-
-### Jenkins
+## <img width="96px" src="https://file.labex.io/path/VtELSfa4h1jh.png">
 
 Jenkins is a free and open source automation server. Jenkins helps to automate the non-human part of the software development process, with continuous integration and facilitating technical aspects of continuous delivery.
+
+### Jenkins Courses
 
 |   Index | Cover                                                                                 | Name                     | Level   | Repo                                                           | Link                                                                |
 |---------|---------------------------------------------------------------------------------------|--------------------------|---------|----------------------------------------------------------------|---------------------------------------------------------------------|
 |       1 | <img width='128px' src='https://cover-creator.labex.io/quick-start-with-jenkins.png'> | Quick Start with Jenkins | ★☆☆     | [Repo](https://github.com/labex-labs/quick-start-with-jenkins) | [Start Learning](https://labex.io/courses/quick-start-with-jenkins) |
 
 
-## <img width="128px" src="https://file.labex.io/path/vBtgM8cNsQFn.png">
-
-### Java
+## <img width="96px" src="https://file.labex.io/path/vBtgM8cNsQFn.png">
 
 Java is a general-purpose programming language that is class-based, object-oriented, and designed to have as few implementation dependencies as possible. It is intended to let application developers write once, run anywhere (WORA), meaning that compiled Java code can run on all platforms that support Java without the need for recompilation.
+
+### Java Courses
 
 |   Index | Cover                                                                              | Name                  | Level   | Repo                                                        | Link                                                             |
 |---------|------------------------------------------------------------------------------------|-----------------------|---------|-------------------------------------------------------------|------------------------------------------------------------------|
@@ -119,11 +119,11 @@ Java is a general-purpose programming language that is class-based, object-orien
 |       2 | <img width='128px' src='https://cover-creator.labex.io/java-practice-plus.png'>    | Java Practice Plus    | ★☆☆     | [Repo](https://github.com/labex-labs/java-practice-plus)    | [Start Learning](https://labex.io/courses/java-practice-plus)    |
 
 
-## <img width="128px" src="https://file.labex.io/path/uO8R5nWNL4Pg.png">
-
-### Hadoop
+## <img width="96px" src="https://file.labex.io/path/uO8R5nWNL4Pg.png">
 
 Unlock the power of Hadoop and learn to handle big data across clusters efficiently. Our Skill Tree guides you from Hadoop basics like HDFS and MapReduce to advanced topics such as YARN and Apache Hive. Gain the skills to analyze and manage large datasets, a must-have for any data professional.
+
+### Hadoop Courses
 
 |   Index | Cover                                                                                | Name                    | Level   | Repo                                                          | Link                                                               |
 |---------|--------------------------------------------------------------------------------------|-------------------------|---------|---------------------------------------------------------------|--------------------------------------------------------------------|
@@ -131,11 +131,11 @@ Unlock the power of Hadoop and learn to handle big data across clusters efficien
 |       2 | <img width='128px' src='https://cover-creator.labex.io/hadoop-in-depth-mastery.png'> | Hadoop In-Depth Mastery | ★☆☆     | [Repo](https://github.com/labex-labs/hadoop-in-depth-mastery) | [Start Learning](https://labex.io/courses/hadoop-in-depth-mastery) |
 
 
-## <img width="128px" src="https://file.labex.io/path/kjx58efaCNu0.png">
-
-### C++
+## <img width="96px" src="https://file.labex.io/path/kjx58efaCNu0.png">
 
 In this path, you will learn and practice basic C++ programming. Then, you will implement C++ image processing, C++Web servers, Markdown parsers, memory pools, and Docker container management tools. By completing all the lab courses in this path, you can be able to implement complex applications independently using C++.
+
+### C++ Courses
 
 |   Index | Cover                                                                             | Name                 | Level   | Repo                                                       | Link                                                            |
 |---------|-----------------------------------------------------------------------------------|----------------------|---------|------------------------------------------------------------|-----------------------------------------------------------------|
@@ -143,11 +143,11 @@ In this path, you will learn and practice basic C++ programming. Then, you will 
 |       2 | <img width='128px' src='https://cover-creator.labex.io/cpp-practice-plus.png'>    | C++ Practice Plus    | ★☆☆     | [Repo](https://github.com/labex-labs/cpp-practice-plus)    | [Start Learning](https://labex.io/courses/cpp-practice-plus)    |
 
 
-## <img width="128px" src="https://file.labex.io/path/GAbMWgBPUOxV.png">
-
-### C
+## <img width="96px" src="https://file.labex.io/path/GAbMWgBPUOxV.png">
 
 C is a general-purpose, procedural computer programming language supporting structured programming, lexical variable scope, and recursion, with a static type system. By design, C provides constructs that map efficiently to typical machine instructions. It has found lasting use in applications previously coded in assembly language. Such applications include operating systems and various application software for computer architectures that range from supercomputers to PLCs and embedded systems.
+
+### C Courses
 
 |   Index | Cover                                                                           | Name               | Level   | Repo                                                     | Link                                                          |
 |---------|---------------------------------------------------------------------------------|--------------------|---------|----------------------------------------------------------|---------------------------------------------------------------|
@@ -155,11 +155,11 @@ C is a general-purpose, procedural computer programming language supporting stru
 |       2 | <img width='128px' src='https://cover-creator.labex.io/c-practice-plus.png'>    | C Practice Plus    | ★☆☆     | [Repo](https://github.com/labex-labs/c-practice-plus)    | [Start Learning](https://labex.io/courses/c-practice-plus)    |
 
 
-## <img width="128px" src="https://file.labex.io/path/amNAVWgtDX5M.png">
-
-### MySQL
+## <img width="96px" src="https://file.labex.io/path/amNAVWgtDX5M.png">
 
 MySQL is an open-source relational database management system (RDBMS). Its name is a combination of "My", the name of co-founder Michael Widenius's daughter, and "SQL", the abbreviation for Structured Query Language.
+
+### MySQL Courses
 
 |   Index | Cover                                                                               | Name                   | Level   | Repo                                                         | Link                                                              |
 |---------|-------------------------------------------------------------------------------------|------------------------|---------|--------------------------------------------------------------|-------------------------------------------------------------------|
@@ -167,11 +167,11 @@ MySQL is an open-source relational database management system (RDBMS). Its name 
 |       2 | <img width='128px' src='https://cover-creator.labex.io/mysql-practice-plus.png'>    | MySQL Practice Plus    | ★☆☆     | [Repo](https://github.com/labex-labs/mysql-practice-plus)    | [Start Learning](https://labex.io/courses/mysql-practice-plus)    |
 
 
-## <img width="128px" src="https://file.labex.io/path/1kXLbMH5geSl.png">
-
-### Machine Learning
+## <img width="96px" src="https://file.labex.io/path/1kXLbMH5geSl.png">
 
 Machine learning is the science of programming computers so they can learn from data. It is a subfield of artificial intelligence. Machine learning is closely related to computational statistics, which also focuses on prediction-making through the use of computers. 
+
+### Machine Learning Courses
 
 |   Index | Cover                                                                                           | Name                                | Level   | Repo                                                                     | Link                                                                          |
 |---------|-------------------------------------------------------------------------------------------------|-------------------------------------|---------|--------------------------------------------------------------------------|-------------------------------------------------------------------------------|
@@ -184,11 +184,11 @@ Machine learning is the science of programming computers so they can learn from 
 |       7 | <img width='128px' src='https://cover-creator.labex.io/ml-practice-plus.png'>                   | Machine Learning Practice Plus      | ★☆☆     | [Repo](https://github.com/labex-labs/ml-practice-plus)                   | [Start Learning](https://labex.io/courses/ml-practice-plus)                   |
 
 
-## <img width="128px" src="https://file.labex.io/path/YgASYacMNI6I.png">
-
-### Go
+## <img width="96px" src="https://file.labex.io/path/YgASYacMNI6I.png">
 
 Golang is an open-source programming language that makes it easy to build simple, reliable, and efficient software. In this skill tree, you'll learn the fundamentals of the language, including the basics of syntax, an introduction to types, and object-oriented programming in Go.
+
+### Go Courses
 
 |   Index | Cover                                                                            | Name                | Level   | Repo                                                      | Link                                                           |
 |---------|----------------------------------------------------------------------------------|---------------------|---------|-----------------------------------------------------------|----------------------------------------------------------------|
@@ -196,11 +196,11 @@ Golang is an open-source programming language that makes it easy to build simple
 |       2 | <img width='128px' src='https://cover-creator.labex.io/go-practice-plus.png'>    | Go Practice Plus    | ★☆☆     | [Repo](https://github.com/labex-labs/go-practice-plus)    | [Start Learning](https://labex.io/courses/go-practice-plus)    |
 
 
-## <img width="128px" src="https://file.labex.io/path/th8WKkH4cFl5.png">
-
-### Rust
+## <img width="96px" src="https://file.labex.io/path/th8WKkH4cFl5.png">
 
 Rust is a modern systems programming language focusing on safety, speed, and concurrency. It is syntactically similar to C++, but is designed to provide better memory safety while maintaining high performance.
+
+### Rust Courses
 
 |   Index | Cover                                                                              | Name                  | Level   | Repo                                                        | Link                                                             |
 |---------|------------------------------------------------------------------------------------|-----------------------|---------|-------------------------------------------------------------|------------------------------------------------------------------|
@@ -208,11 +208,11 @@ Rust is a modern systems programming language focusing on safety, speed, and con
 |       2 | <img width='128px' src='https://cover-creator.labex.io/rust-practice-plus.png'>    | Rust Practice Plus    | ★☆☆     | [Repo](https://github.com/labex-labs/rust-practice-plus)    | [Start Learning](https://labex.io/courses/rust-practice-plus)    |
 
 
-## <img width="128px" src="https://file.labex.io/path/qhqKKAjZr3K5.png">
-
-### Pandas
+## <img width="96px" src="https://file.labex.io/path/qhqKKAjZr3K5.png">
 
 Pandas is a Python library for data analysis. It provides high-performance, easy-to-use data structures and data analysis tools. In this skill tree, you'll learn how to use Pandas to analyze data in Python.
+
+### Pandas Courses
 
 |   Index | Cover                                                                                | Name                    | Level   | Repo                                                          | Link                                                               |
 |---------|--------------------------------------------------------------------------------------|-------------------------|---------|---------------------------------------------------------------|--------------------------------------------------------------------|
@@ -221,11 +221,11 @@ Pandas is a Python library for data analysis. It provides high-performance, easy
 |       3 | <img width='128px' src='https://cover-creator.labex.io/pandas-practice-plus.png'>    | Pandas Practice Plus    | ★☆☆     | [Repo](https://github.com/labex-labs/pandas-practice-plus)    | [Start Learning](https://labex.io/courses/pandas-practice-plus)    |
 
 
-## <img width="128px" src="https://file.labex.io/path/gdqX0QgXsYjL.png">
-
-### NumPy
+## <img width="96px" src="https://file.labex.io/path/gdqX0QgXsYjL.png">
 
 NumPy is a Python library for scientific computing. It provides fast and efficient multidimensional arrays, as well as a large collection of mathematical functions. In this skill tree, you'll learn how to use NumPy to perform basic operations on arrays of data.
+
+### NumPy Courses
 
 |   Index | Cover                                                                               | Name                   | Level   | Repo                                                         | Link                                                              |
 |---------|-------------------------------------------------------------------------------------|------------------------|---------|--------------------------------------------------------------|-------------------------------------------------------------------|
@@ -234,11 +234,11 @@ NumPy is a Python library for scientific computing. It provides fast and efficie
 |       3 | <img width='128px' src='https://cover-creator.labex.io/numpy-practice-plus.png'>    | NumPy Practice Plus    | ★☆☆     | [Repo](https://github.com/labex-labs/numpy-practice-plus)    | [Start Learning](https://labex.io/courses/numpy-practice-plus)    |
 
 
-## <img width="128px" src="https://file.labex.io/path/N7q3t9dfWfEY.png">
-
-### scikit-learn
+## <img width="96px" src="https://file.labex.io/path/N7q3t9dfWfEY.png">
 
 scikit-learn is a Python library for machine learning. It provides a wide range of algorithms and tools for data mining and analysis. In this skill tree, you'll learn how to use scikit-learn to build machine learning models in Python.
+
+### scikit-learn Courses
 
 |   Index | Cover                                                                                      | Name                          | Level   | Repo                                                                | Link                                                                     |
 |---------|--------------------------------------------------------------------------------------------|-------------------------------|---------|---------------------------------------------------------------------|--------------------------------------------------------------------------|
@@ -246,11 +246,11 @@ scikit-learn is a Python library for machine learning. It provides a wide range 
 |       2 | <img width='128px' src='https://cover-creator.labex.io/sklearn-practice-plus.png'>         | scikit-learn Practice Plus    | ★☆☆     | [Repo](https://github.com/labex-labs/sklearn-practice-plus)         | [Start Learning](https://labex.io/courses/sklearn-practice-plus)         |
 
 
-## <img width="128px" src="https://file.labex.io/path/6PDQ0G40CdCX.png">
-
-### Matplotlib
+## <img width="96px" src="https://file.labex.io/path/6PDQ0G40CdCX.png">
 
 Matplotlib is a Python library for creating visualizations of data. It provides a wide range of plotting tools, including line plots, scatter plots, bar charts, histograms, and more. In this skill tree, you'll learn how to use Matplotlib to create basic visualizations of data.
+
+### Matplotlib Courses
 
 |   Index | Cover                                                                                          | Name                              | Level   | Repo                                                                    | Link                                                                         |
 |---------|------------------------------------------------------------------------------------------------|-----------------------------------|---------|-------------------------------------------------------------------------|------------------------------------------------------------------------------|
@@ -259,11 +259,11 @@ Matplotlib is a Python library for creating visualizations of data. It provides 
 |       3 | <img width='128px' src='https://cover-creator.labex.io/matplotlib-practice-plus.png'>          | Matplotlib Practice Plus          | ★☆☆     | [Repo](https://github.com/labex-labs/matplotlib-practice-plus)          | [Start Learning](https://labex.io/courses/matplotlib-practice-plus)          |
 
 
-## <img width="128px" src="https://file.labex.io/path/NrasuEoAvSam.png">
-
-### HTML
+## <img width="96px" src="https://file.labex.io/path/NrasuEoAvSam.png">
 
 HTML is a markup language that is used to create web pages. It is the standard markup language used for creating web pages and web applications. HTML stands for Hyper Text Markup Language. HTML describes the structure of a web page semantically and originally included cues for the appearance of the document.
+
+### HTML Courses
 
 |   Index | Cover                                                                              | Name                  | Level   | Repo                                                        | Link                                                             |
 |---------|------------------------------------------------------------------------------------|-----------------------|---------|-------------------------------------------------------------|------------------------------------------------------------------|
@@ -271,11 +271,11 @@ HTML is a markup language that is used to create web pages. It is the standard m
 |       2 | <img width='128px' src='https://cover-creator.labex.io/html-practice-plus.png'>    | HTML Practice Plus    | ★☆☆     | [Repo](https://github.com/labex-labs/html-practice-plus)    | [Start Learning](https://labex.io/courses/html-practice-plus)    |
 
 
-## <img width="128px" src="https://file.labex.io/path/YheSJQuYYCNJ.png">
-
-### CSS
+## <img width="96px" src="https://file.labex.io/path/YheSJQuYYCNJ.png">
 
 CSS is a language that describes the style of an HTML document. It's used to make web pages look good and work well on different devices. In this skill tree, you'll learn how to use CSS to style your web pages.
+
+### CSS Courses
 
 |   Index | Cover                                                                             | Name                 | Level   | Repo                                                       | Link                                                            |
 |---------|-----------------------------------------------------------------------------------|----------------------|---------|------------------------------------------------------------|-----------------------------------------------------------------|
@@ -283,11 +283,11 @@ CSS is a language that describes the style of an HTML document. It's used to mak
 |       2 | <img width='128px' src='https://cover-creator.labex.io/css-practice-plus.png'>    | CSS Practice Plus    | ★☆☆     | [Repo](https://github.com/labex-labs/css-practice-plus)    | [Start Learning](https://labex.io/courses/css-practice-plus)    |
 
 
-## <img width="128px" src="https://file.labex.io/path/ztG7iIXOkx2u.png">
-
-### JavaScript
+## <img width="96px" src="https://file.labex.io/path/ztG7iIXOkx2u.png">
 
 JavaScript is a programming language that can be used to create interactive web pages. Every modern web browser has built-in support for JavaScript, so it's easy to get started with this skill tree. 
+
+### JavaScript Courses
 
 |   Index | Cover                                                                                    | Name                        | Level   | Repo                                                              | Link                                                                   |
 |---------|------------------------------------------------------------------------------------------|-----------------------------|---------|-------------------------------------------------------------------|------------------------------------------------------------------------|
@@ -296,11 +296,11 @@ JavaScript is a programming language that can be used to create interactive web 
 |       3 | <img width='128px' src='https://cover-creator.labex.io/javascript-practice-plus.png'>    | JavaScript Practice Plus    | ★☆☆     | [Repo](https://github.com/labex-labs/javascript-practice-plus)    | [Start Learning](https://labex.io/courses/javascript-practice-plus)    |
 
 
-## <img width="128px" src="https://file.labex.io/path/nUDMNpUKFvpT.png">
-
-### React
+## <img width="96px" src="https://file.labex.io/path/nUDMNpUKFvpT.png">
 
 React is a JavaScript library for building user interfaces. It's used by companies like Facebook, Netflix, and Airbnb to create interactive web applications. In this skill tree, you'll learn how to use React to build modern web apps with ease.
+
+### React Courses
 
 |   Index | Cover                                                                               | Name                   | Level   | Repo                                                         | Link                                                              |
 |---------|-------------------------------------------------------------------------------------|------------------------|---------|--------------------------------------------------------------|-------------------------------------------------------------------|
@@ -308,11 +308,11 @@ React is a JavaScript library for building user interfaces. It's used by compani
 |       2 | <img width='128px' src='https://cover-creator.labex.io/react-practice-plus.png'>    | React Practice Plus    | ★☆☆     | [Repo](https://github.com/labex-labs/react-practice-plus)    | [Start Learning](https://labex.io/courses/react-practice-plus)    |
 
 
-## <img width="128px" src="https://file.labex.io/path/Xke24vJbuOBk.png">
-
-### Cyber Security
+## <img width="96px" src="https://file.labex.io/path/Xke24vJbuOBk.png">
 
 Gain practical skills in network mapping with Nmap, packet analysis with Wireshark, and ethical hacking methodologies using Kali Linux. Explore host discovery, port scanning, vulnerability assessments, traffic capture, packet dissection, and a wide range of security tools. Develop hands-on expertise in network reconnaissance, web app testing, wireless hacking, exploitation, and post-exploitation techniques. This comprehensive path equips you with essential InfoSec knowledge to identify risks, conduct ethical hacking assessments, and strengthen organizational security posture.
+
+### Cyber Security Courses
 
 |   Index | Cover                                                                                                 | Name                                     | Level   | Repo                                                                           | Link                                                                                |
 |---------|-------------------------------------------------------------------------------------------------------|------------------------------------------|---------|--------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
