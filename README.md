@@ -1,6 +1,7 @@
 # Awesome Programming Courses
 
 Awesome Programming Courses is a collection of curated learning paths spanning diverse topics like programming languages, machine learning, and cybersecurity. It offers comprehensive courses and hands-on labs tailored for learners of all levels, from students to professionals and enthusiasts.
+
 ---
 
 <div align="center">
@@ -21,7 +22,7 @@ Linux is one of the most popular operating systems in the world. It is used in e
 |       6 | [Quick Start with Shell](#quick-start-with-shell)   | ★☆☆     | [Repo](https://github.com/labex-labs/quick-start-with-shell)               | [Start Learning](https://labex.io/courses/quick-start-with-shell)               |
 |       7 | [Shell Practice Plus](#shell-practice-plus)         | ★☆☆     | [Repo](https://github.com/labex-labs/shell-practice-plus)                  | [Start Learning](https://labex.io/courses/shell-practice-plus)                  |
 
----
+
 ### Quick Start with Linux
 
 <img width="300px" src="https://cover-creator.labex.io/quick-start-with-linux.png">
@@ -30,7 +31,7 @@ This course is designed for beginners who have no prior knowledge of Linux. It w
 
 [🚀 Start Learning](https://labex.io/courses/quick-start-with-linux)
 
----
+
 ### Linux for Noobs
 
 <img width="300px" src="https://cover-creator.labex.io/linux-for-noobs.png">
@@ -39,7 +40,7 @@ In this course, you will learn the basic knowledge of Linux, including the basic
 
 [🚀 Start Learning](https://labex.io/courses/linux-for-noobs)
 
----
+
 ### Linux In-Depth Mastery
 
 <img width="300px" src="https://cover-creator.labex.io/linux-in-depth-mastery.png">
@@ -48,7 +49,7 @@ In this course, You will learn Linux in-depth and master Linux skills. After com
 
 [🚀 Start Learning](https://labex.io/courses/linux-in-depth-mastery)
 
----
+
 ### Practice Linux Commands
 
 <img width="300px" src="https://cover-creator.labex.io/linux-basic-commands-practice-online.png">
@@ -57,7 +58,7 @@ In this course, you will practice the most commonly used Linux commands. You wil
 
 [🚀 Start Learning](https://labex.io/courses/linux-basic-commands-practice-online)
 
----
+
 ### Linux Practice Plus
 
 <img width="300px" src="https://cover-creator.labex.io/linux-practice-plus.png">
@@ -66,7 +67,7 @@ In this course, You will practice more labs of Linux. This will help you to mast
 
 [🚀 Start Learning](https://labex.io/courses/linux-practice-plus)
 
----
+
 ### Quick Start with Shell
 
 <img width="300px" src="https://cover-creator.labex.io/quick-start-with-shell.png">
@@ -75,7 +76,7 @@ This course is designed to give you a solid foundation in the most popular shell
 
 [🚀 Start Learning](https://labex.io/courses/quick-start-with-shell)
 
----
+
 ### Shell Practice Plus
 
 <img width="300px" src="https://cover-creator.labex.io/shell-practice-plus.png">
@@ -83,6 +84,7 @@ This course is designed to give you a solid foundation in the most popular shell
 In this course, You will practice more labs of Shell. This will help you to master the skills more deeply.
 
 [🚀 Start Learning](https://labex.io/courses/shell-practice-plus)
+
 
 
 ---
@@ -106,7 +108,7 @@ Python is a programming language that has become very popular in recent years. I
 |       7 | [The Advanced Python Mastery](#the-advanced-python-mastery)   | ★★★     | [Repo](https://github.com/labex-labs/the-advanced-python-mastery)  | [Start Learning](https://labex.io/courses/the-advanced-python-mastery)  |
 |       8 | [Thousands Python Challenges](#thousands-python-challenges)   | ★☆☆     | [Repo](https://github.com/labex-labs/thousands-python-challenges)  | [Start Learning](https://labex.io/courses/thousands-python-challenges)  |
 
----
+
 ### Quick Start with Python
 
 <img width="300px" src="https://cover-creator.labex.io/quick-start-with-python.png">
@@ -115,7 +117,7 @@ This course is designed for beginners who want to start their journey with Pytho
 
 [🚀 Start Learning](https://labex.io/courses/quick-start-with-python)
 
----
+
 ### Python In-Depth Mastery
 
 <img width="300px" src="https://cover-creator.labex.io/python-in-depth-mastery.png">
@@ -124,7 +126,7 @@ In this course, You will learn Python in-depth and master Python skills. After c
 
 [🚀 Start Learning](https://labex.io/courses/python-in-depth-mastery)
 
----
+
 ### Python Practice Plus
 
 <img width="300px" src="https://cover-creator.labex.io/python-practice-plus.png">
@@ -133,7 +135,7 @@ In this course, You will practice more labs of Python. This will help you to mas
 
 [🚀 Start Learning](https://labex.io/courses/python-practice-plus)
 
----
+
 ### Quick Start with Algorithm
 
 <img width="300px" src="https://cover-creator.labex.io/quick-start-with-algorithm.png">
@@ -142,7 +144,7 @@ This course offers numerous interactive coding challenges to help you comprehend
 
 [🚀 Start Learning](https://labex.io/courses/quick-start-with-algorithm)
 
----
+
 ### Quick Start with Django
 
 <img width="300px" src="https://cover-creator.labex.io/quick-start-with-django.png">
@@ -151,7 +153,7 @@ This tutorial is a hands-on adaptation of the official Django beginner's example
 
 [🚀 Start Learning](https://labex.io/courses/quick-start-with-django)
 
----
+
 ### Practical Python Programming
 
 <img width="300px" src="https://cover-creator.labex.io/practical-python-programming.png">
@@ -160,7 +162,7 @@ This course is designed by David Beazley, author of the Python Cookbook, release
 
 [🚀 Start Learning](https://labex.io/courses/practical-python-programming)
 
----
+
 ### The Advanced Python Mastery
 
 <img width="300px" src="https://cover-creator.labex.io/the-advanced-python-mastery.png">
@@ -169,7 +171,7 @@ This course is designed by David Beazley, author of the Python Cookbook, release
 
 [🚀 Start Learning](https://labex.io/courses/the-advanced-python-mastery)
 
----
+
 ### Thousands Python Challenges
 
 <img width="300px" src="https://cover-creator.labex.io/thousands-python-challenges.png">
@@ -177,6 +179,7 @@ This course is designed by David Beazley, author of the Python Cookbook, release
 This course contains thousands of challenges for Python, each challenge is a small Python project with detailed instructions and solutions. You can practice your Python skills by solving these challenges, improve your problem-solving skills, and learn how to write clean and efficient code.
 
 [🚀 Start Learning](https://labex.io/courses/thousands-python-challenges)
+
 
 
 ---
@@ -195,7 +198,7 @@ Docker is a tool that allows you to run applications in containers. Every contai
 |       2 | [Docker In-Depth Mastery](#docker-in-depth-mastery) | ★☆☆     | [Repo](https://github.com/labex-labs/docker-in-depth-mastery) | [Start Learning](https://labex.io/courses/docker-in-depth-mastery) |
 |       3 | [Docker Practice Plus](#docker-practice-plus)       | ★☆☆     | [Repo](https://github.com/labex-labs/docker-practice-plus)    | [Start Learning](https://labex.io/courses/docker-practice-plus)    |
 
----
+
 ### Quick Start with Docker
 
 <img width="300px" src="https://cover-creator.labex.io/quick-start-with-docker.png">
@@ -204,7 +207,7 @@ This course is designed to help you get started with Docker. We will cover the b
 
 [🚀 Start Learning](https://labex.io/courses/quick-start-with-docker)
 
----
+
 ### Docker In-Depth Mastery
 
 <img width="300px" src="https://cover-creator.labex.io/docker-in-depth-mastery.png">
@@ -213,7 +216,7 @@ In this course, You will learn Docker in-depth and master Docker skills. After c
 
 [🚀 Start Learning](https://labex.io/courses/docker-in-depth-mastery)
 
----
+
 ### Docker Practice Plus
 
 <img width="300px" src="https://cover-creator.labex.io/docker-practice-plus.png">
@@ -221,6 +224,7 @@ In this course, You will learn Docker in-depth and master Docker skills. After c
 In this course, You will practice more labs of Docker. This will help you to master the skills more deeply.
 
 [🚀 Start Learning](https://labex.io/courses/docker-practice-plus)
+
 
 
 ---
@@ -237,7 +241,7 @@ Alibaba Cloud is one of the world's largest cloud computing companies, providing
 |---------|-------------------------------------------------------------|---------|-----------------------------------------------------------------|----------------------------------------------------------------------|
 |       1 | [A Beginner's Guide to LabEx](#a-beginner's-guide-to-labex) | ★☆☆     | [Repo](https://github.com/labex-labs/a-beginner-guide-to-labex) | [Start Learning](https://labex.io/courses/a-beginner-guide-to-labex) |
 
----
+
 ### A Beginner's Guide to LabEx
 
 <img width="300px" src="https://cover-creator.labex.io/a-beginner-guide-to-labex.png">
@@ -245,6 +249,7 @@ Alibaba Cloud is one of the world's largest cloud computing companies, providing
 Welcome to LabEx. This is the first stop of your adventure here, let me show the basic features of LabEx, and teach you how to learn and practice in the LabEx environment. Prepare to be amazed!
 
 [🚀 Start Learning](https://labex.io/courses/a-beginner-guide-to-labex)
+
 
 
 ---
@@ -262,7 +267,7 @@ Kubernetes is an open-source container orchestration system for automating deplo
 |       1 | [Quick Start with Kubernetes](#quick-start-with-kubernetes) | ★☆☆     | [Repo](https://github.com/labex-labs/quick-start-with-kubernetes) | [Start Learning](https://labex.io/courses/quick-start-with-kubernetes) |
 |       2 | [Kubernetes Practice Plus](#kubernetes-practice-plus)       | ★☆☆     | [Repo](https://github.com/labex-labs/kubernetes-practice-plus)    | [Start Learning](https://labex.io/courses/kubernetes-practice-plus)    |
 
----
+
 ### Quick Start with Kubernetes
 
 <img width="300px" src="https://cover-creator.labex.io/quick-start-with-kubernetes.png">
@@ -271,7 +276,7 @@ This course is designed to teach you about managing application containers, usin
 
 [🚀 Start Learning](https://labex.io/courses/quick-start-with-kubernetes)
 
----
+
 ### Kubernetes Practice Plus
 
 <img width="300px" src="https://cover-creator.labex.io/kubernetes-practice-plus.png">
@@ -279,6 +284,7 @@ This course is designed to teach you about managing application containers, usin
 In this course, You will practice more labs of Kubernetes. This will help you to master the skills more deeply.
 
 [🚀 Start Learning](https://labex.io/courses/kubernetes-practice-plus)
+
 
 
 ---
@@ -296,7 +302,7 @@ Git is a version control system that allows you to track changes in your code an
 |       1 | [Quick Start with Git](#quick-start-with-git) | ★☆☆     | [Repo](https://github.com/labex-labs/quick-start-with-git) | [Start Learning](https://labex.io/courses/quick-start-with-git) |
 |       2 | [Git Practice Plus](#git-practice-plus)       | ★☆☆     | [Repo](https://github.com/labex-labs/git-practice-plus)    | [Start Learning](https://labex.io/courses/git-practice-plus)    |
 
----
+
 ### Quick Start with Git
 
 <img width="300px" src="https://cover-creator.labex.io/quick-start-with-git.png">
@@ -305,7 +311,7 @@ This course will teach you how to use Git. You will learn how to install Git, co
 
 [🚀 Start Learning](https://labex.io/courses/quick-start-with-git)
 
----
+
 ### Git Practice Plus
 
 <img width="300px" src="https://cover-creator.labex.io/git-practice-plus.png">
@@ -313,6 +319,7 @@ This course will teach you how to use Git. You will learn how to install Git, co
 In this course, You will practice more labs of Git. This will help you to master the skills more deeply.
 
 [🚀 Start Learning](https://labex.io/courses/git-practice-plus)
+
 
 
 ---
@@ -329,7 +336,7 @@ Ansible is an open-source software provisioning, configuration management, and a
 |---------|-------------------------------------------------------|---------|----------------------------------------------------------------|---------------------------------------------------------------------|
 |       1 | [Quick Start with Ansible](#quick-start-with-ansible) | ★☆☆     | [Repo](https://github.com/labex-labs/quick-start-with-ansible) | [Start Learning](https://labex.io/courses/quick-start-with-ansible) |
 
----
+
 ### Quick Start with Ansible
 
 <img width="300px" src="https://cover-creator.labex.io/quick-start-with-ansible.png">
@@ -337,6 +344,7 @@ Ansible is an open-source software provisioning, configuration management, and a
 This course is designed to teach you the basics of using Ansible to configure Linux hosts. It includes an introduction to Ansible, installation, and a few simple examples of using Ansible to perform common tasks.
 
 [🚀 Start Learning](https://labex.io/courses/quick-start-with-ansible)
+
 
 
 ---
@@ -353,7 +361,7 @@ Jenkins is a free and open source automation server. Jenkins helps to automate t
 |---------|-------------------------------------------------------|---------|----------------------------------------------------------------|---------------------------------------------------------------------|
 |       1 | [Quick Start with Jenkins](#quick-start-with-jenkins) | ★☆☆     | [Repo](https://github.com/labex-labs/quick-start-with-jenkins) | [Start Learning](https://labex.io/courses/quick-start-with-jenkins) |
 
----
+
 ### Quick Start with Jenkins
 
 <img width="300px" src="https://cover-creator.labex.io/quick-start-with-jenkins.png">
@@ -361,6 +369,7 @@ Jenkins is a free and open source automation server. Jenkins helps to automate t
 In this course, you will learn how to install Jenkins on a Linux machine using Docker. You will also learn how to create a Jenkins job to build a simple Java application.
 
 [🚀 Start Learning](https://labex.io/courses/quick-start-with-jenkins)
+
 
 
 ---
@@ -378,7 +387,7 @@ Java is a general-purpose programming language that is class-based, object-orien
 |       1 | [Quick Start with Java](#quick-start-with-java) | ★☆☆     | [Repo](https://github.com/labex-labs/quick-start-with-java) | [Start Learning](https://labex.io/courses/quick-start-with-java) |
 |       2 | [Java Practice Plus](#java-practice-plus)       | ★☆☆     | [Repo](https://github.com/labex-labs/java-practice-plus)    | [Start Learning](https://labex.io/courses/java-practice-plus)    |
 
----
+
 ### Quick Start with Java
 
 <img width="300px" src="https://cover-creator.labex.io/quick-start-with-java.png">
@@ -387,7 +396,7 @@ Java is one of the most popular and powerful programming languages. It will walk
 
 [🚀 Start Learning](https://labex.io/courses/quick-start-with-java)
 
----
+
 ### Java Practice Plus
 
 <img width="300px" src="https://cover-creator.labex.io/java-practice-plus.png">
@@ -395,6 +404,7 @@ Java is one of the most popular and powerful programming languages. It will walk
 In this course, You will practice more labs of Java. This will help you to master the skills more deeply.
 
 [🚀 Start Learning](https://labex.io/courses/java-practice-plus)
+
 
 
 ---
@@ -412,7 +422,7 @@ Unlock the power of Hadoop and learn to handle big data across clusters efficien
 |       1 | [Quick Start with Hadoop](#quick-start-with-hadoop) | ★☆☆     | [Repo](https://github.com/labex-labs/quick-start-with-hadoop) | [Start Learning](https://labex.io/courses/quick-start-with-hadoop) |
 |       2 | [Hadoop In-Depth Mastery](#hadoop-in-depth-mastery) | ★☆☆     | [Repo](https://github.com/labex-labs/hadoop-in-depth-mastery) | [Start Learning](https://labex.io/courses/hadoop-in-depth-mastery) |
 
----
+
 ### Quick Start with Hadoop
 
 <img width="300px" src="https://cover-creator.labex.io/quick-start-with-hadoop.png">
@@ -421,7 +431,7 @@ In this course, you will learn how to install and deploy Hadoop, and how to use 
 
 [🚀 Start Learning](https://labex.io/courses/quick-start-with-hadoop)
 
----
+
 ### Hadoop In-Depth Mastery
 
 <img width="300px" src="https://cover-creator.labex.io/hadoop-in-depth-mastery.png">
@@ -429,6 +439,7 @@ In this course, you will learn how to install and deploy Hadoop, and how to use 
 In this course, You will learn Hadoop in-depth and master Hadoop skills. After completing this course, you will be able to use Hadoop to manage and process big data.
 
 [🚀 Start Learning](https://labex.io/courses/hadoop-in-depth-mastery)
+
 
 
 ---
@@ -446,7 +457,7 @@ In this path, you will learn and practice basic C++ programming. Then, you will 
 |       1 | [Quick Start with C++](#quick-start-with-c++) | ★☆☆     | [Repo](https://github.com/labex-labs/quick-start-with-cpp) | [Start Learning](https://labex.io/courses/quick-start-with-cpp) |
 |       2 | [C++ Practice Plus](#c++-practice-plus)       | ★☆☆     | [Repo](https://github.com/labex-labs/cpp-practice-plus)    | [Start Learning](https://labex.io/courses/cpp-practice-plus)    |
 
----
+
 ### Quick Start with C++
 
 <img width="300px" src="https://cover-creator.labex.io/quick-start-with-cpp.png">
@@ -455,7 +466,7 @@ This is your first step of C++. In this course, you will learn the basic concept
 
 [🚀 Start Learning](https://labex.io/courses/quick-start-with-cpp)
 
----
+
 ### C++ Practice Plus
 
 <img width="300px" src="https://cover-creator.labex.io/cpp-practice-plus.png">
@@ -463,6 +474,7 @@ This is your first step of C++. In this course, you will learn the basic concept
 In this course, You will practice more labs of C++. This will help you to master the skills more deeply.
 
 [🚀 Start Learning](https://labex.io/courses/cpp-practice-plus)
+
 
 
 ---
@@ -480,7 +492,7 @@ C is a general-purpose, procedural computer programming language supporting stru
 |       1 | [Quick Start with C](#quick-start-with-c) | ★☆☆     | [Repo](https://github.com/labex-labs/quick-start-with-c) | [Start Learning](https://labex.io/courses/quick-start-with-c) |
 |       2 | [C Practice Plus](#c-practice-plus)       | ★☆☆     | [Repo](https://github.com/labex-labs/c-practice-plus)    | [Start Learning](https://labex.io/courses/c-practice-plus)    |
 
----
+
 ### Quick Start with C
 
 <img width="300px" src="https://cover-creator.labex.io/quick-start-with-c.png">
@@ -489,7 +501,7 @@ In this course, you will learn the basics of C programming language. You will le
 
 [🚀 Start Learning](https://labex.io/courses/quick-start-with-c)
 
----
+
 ### C Practice Plus
 
 <img width="300px" src="https://cover-creator.labex.io/c-practice-plus.png">
@@ -497,6 +509,7 @@ In this course, you will learn the basics of C programming language. You will le
 In this course, You will practice more labs of C. This will help you to master the skills more deeply.
 
 [🚀 Start Learning](https://labex.io/courses/c-practice-plus)
+
 
 
 ---
@@ -514,7 +527,7 @@ MySQL is an open-source relational database management system (RDBMS). Its name 
 |       1 | [Quick Start with MySQL](#quick-start-with-mysql) | ★☆☆     | [Repo](https://github.com/labex-labs/quick-start-with-mysql) | [Start Learning](https://labex.io/courses/quick-start-with-mysql) |
 |       2 | [MySQL Practice Plus](#mysql-practice-plus)       | ★☆☆     | [Repo](https://github.com/labex-labs/mysql-practice-plus)    | [Start Learning](https://labex.io/courses/mysql-practice-plus)    |
 
----
+
 ### Quick Start with MySQL
 
 <img width="300px" src="https://cover-creator.labex.io/quick-start-with-mysql.png">
@@ -523,7 +536,7 @@ In this course, you will learn what Structured Query Language (SQL) and database
 
 [🚀 Start Learning](https://labex.io/courses/quick-start-with-mysql)
 
----
+
 ### MySQL Practice Plus
 
 <img width="300px" src="https://cover-creator.labex.io/mysql-practice-plus.png">
@@ -531,6 +544,7 @@ In this course, you will learn what Structured Query Language (SQL) and database
 In this course, You will practice more labs of MySQL. This will help you to master the skills more deeply.
 
 [🚀 Start Learning](https://labex.io/courses/mysql-practice-plus)
+
 
 
 ---
@@ -553,7 +567,7 @@ Machine learning is the science of programming computers so they can learn from 
 |       6 | [Quick Start with OpenCV](#quick-start-with-opencv)                         | ★☆☆     | [Repo](https://github.com/labex-labs/quick-start-with-opencv)            | [Start Learning](https://labex.io/courses/quick-start-with-opencv)            |
 |       7 | [Machine Learning Practice Plus](#machine-learning-practice-plus)           | ★☆☆     | [Repo](https://github.com/labex-labs/ml-practice-plus)                   | [Start Learning](https://labex.io/courses/ml-practice-plus)                   |
 
----
+
 ### Supervised Learning: Regression
 
 <img width="300px" src="https://cover-creator.labex.io/supervised-learning-regression.png">
@@ -562,7 +576,7 @@ Supervised learning. If you are hearing or reading this term for the first time,
 
 [🚀 Start Learning](https://labex.io/courses/supervised-learning-regression)
 
----
+
 ### Supervised Learning: Classification
 
 <img width="300px" src="https://cover-creator.labex.io/supervised-learning-classification.png">
@@ -571,7 +585,7 @@ During this course, we will continue to learn another important application in s
 
 [🚀 Start Learning](https://labex.io/courses/supervised-learning-classification)
 
----
+
 ### Unsupervised Learning: Clustering
 
 <img width="300px" src="https://cover-creator.labex.io/unsupervised-learning-clustering.png">
@@ -580,7 +594,7 @@ In this course, you will fully understand unsupervised learning and learn to use
 
 [🚀 Start Learning](https://labex.io/courses/unsupervised-learning-clustering)
 
----
+
 ### Quick Start with TensorFlow
 
 <img width="300px" src="https://cover-creator.labex.io/quick-start-with-tensorflow.png">
@@ -589,7 +603,7 @@ In this course, you will learn the basic concepts and syntax of TensorFlow 2, an
 
 [🚀 Start Learning](https://labex.io/courses/quick-start-with-tensorflow)
 
----
+
 ### Foundations of Deep Learning
 
 <img width="300px" src="https://cover-creator.labex.io/foundations-of-deep-learning.png">
@@ -598,7 +612,7 @@ In this course, you will learn the basic concepts of deep learning, including th
 
 [🚀 Start Learning](https://labex.io/courses/foundations-of-deep-learning)
 
----
+
 ### Quick Start with OpenCV
 
 <img width="300px" src="https://cover-creator.labex.io/quick-start-with-opencv.png">
@@ -607,7 +621,7 @@ In this course, you will learn the basics of OpenCV. You will learn how to read,
 
 [🚀 Start Learning](https://labex.io/courses/quick-start-with-opencv)
 
----
+
 ### Machine Learning Practice Plus
 
 <img width="300px" src="https://cover-creator.labex.io/ml-practice-plus.png">
@@ -615,6 +629,7 @@ In this course, you will learn the basics of OpenCV. You will learn how to read,
 In this course, You will practice more labs of Machine Learning. This will help you to master the skills more deeply.
 
 [🚀 Start Learning](https://labex.io/courses/ml-practice-plus)
+
 
 
 ---
@@ -632,7 +647,7 @@ Golang is an open-source programming language that makes it easy to build simple
 |       1 | [Quick Start with Go](#quick-start-with-go) | ★★☆     | [Repo](https://github.com/labex-labs/quick-start-with-go) | [Start Learning](https://labex.io/courses/quick-start-with-go) |
 |       2 | [Go Practice Plus](#go-practice-plus)       | ★☆☆     | [Repo](https://github.com/labex-labs/go-practice-plus)    | [Start Learning](https://labex.io/courses/go-practice-plus)    |
 
----
+
 ### Quick Start with Go
 
 <img width="300px" src="https://cover-creator.labex.io/quick-start-with-go.png">
@@ -641,7 +656,7 @@ Golang is a statically typed, compiled programming language. This course provide
 
 [🚀 Start Learning](https://labex.io/courses/quick-start-with-go)
 
----
+
 ### Go Practice Plus
 
 <img width="300px" src="https://cover-creator.labex.io/go-practice-plus.png">
@@ -649,6 +664,7 @@ Golang is a statically typed, compiled programming language. This course provide
 In this course, You will practice more labs of Go. This will help you to master the skills more deeply.
 
 [🚀 Start Learning](https://labex.io/courses/go-practice-plus)
+
 
 
 ---
@@ -666,7 +682,7 @@ Rust is a modern systems programming language focusing on safety, speed, and con
 |       1 | [Quick Start with Rust](#quick-start-with-rust) | ★☆☆     | [Repo](https://github.com/labex-labs/quick-start-with-rust) | [Start Learning](https://labex.io/courses/quick-start-with-rust) |
 |       2 | [Rust Practice Plus](#rust-practice-plus)       | ★☆☆     | [Repo](https://github.com/labex-labs/rust-practice-plus)    | [Start Learning](https://labex.io/courses/rust-practice-plus)    |
 
----
+
 ### Quick Start with Rust
 
 <img width="300px" src="https://cover-creator.labex.io/quick-start-with-rust.png">
@@ -675,7 +691,7 @@ This course is designed to teach you the basics of using Ansible to configure Li
 
 [🚀 Start Learning](https://labex.io/courses/quick-start-with-rust)
 
----
+
 ### Rust Practice Plus
 
 <img width="300px" src="https://cover-creator.labex.io/rust-practice-plus.png">
@@ -683,6 +699,7 @@ This course is designed to teach you the basics of using Ansible to configure Li
 In this course, You will practice more labs of Rust. This will help you to master the skills more deeply.
 
 [🚀 Start Learning](https://labex.io/courses/rust-practice-plus)
+
 
 
 ---
@@ -701,7 +718,7 @@ Pandas is a Python library for data analysis. It provides high-performance, easy
 |       2 | [100 Pandas Exercises](#100-pandas-exercises)       | ★★☆     | [Repo](https://github.com/labex-labs/100-pandas-exercises)    | [Start Learning](https://labex.io/courses/100-pandas-exercises)    |
 |       3 | [Pandas Practice Plus](#pandas-practice-plus)       | ★☆☆     | [Repo](https://github.com/labex-labs/pandas-practice-plus)    | [Start Learning](https://labex.io/courses/pandas-practice-plus)    |
 
----
+
 ### Quick Start with Pandas
 
 <img width="300px" src="https://cover-creator.labex.io/quick-start-with-pandas.png">
@@ -710,7 +727,7 @@ This course is designed for beginners who want to start analyzing data with Pand
 
 [🚀 Start Learning](https://labex.io/courses/quick-start-with-pandas)
 
----
+
 ### 100 Pandas Exercises
 
 <img width="300px" src="https://cover-creator.labex.io/100-pandas-exercises.png">
@@ -719,7 +736,7 @@ Pandas is a tool for data processing based on NumPy,created to solve data analys
 
 [🚀 Start Learning](https://labex.io/courses/100-pandas-exercises)
 
----
+
 ### Pandas Practice Plus
 
 <img width="300px" src="https://cover-creator.labex.io/pandas-practice-plus.png">
@@ -727,6 +744,7 @@ Pandas is a tool for data processing based on NumPy,created to solve data analys
 In this course, You will practice more labs of Pandas. This will help you to master the skills more deeply.
 
 [🚀 Start Learning](https://labex.io/courses/pandas-practice-plus)
+
 
 
 ---
@@ -745,7 +763,7 @@ NumPy is a Python library for scientific computing. It provides fast and efficie
 |       2 | [100 NumPy Exercises](#100-numpy-exercises)       | ★★☆     | [Repo](https://github.com/labex-labs/100-numpy-exercises)    | [Start Learning](https://labex.io/courses/100-numpy-exercises)    |
 |       3 | [NumPy Practice Plus](#numpy-practice-plus)       | ★☆☆     | [Repo](https://github.com/labex-labs/numpy-practice-plus)    | [Start Learning](https://labex.io/courses/numpy-practice-plus)    |
 
----
+
 ### Quick Start with NumPy
 
 <img width="300px" src="https://cover-creator.labex.io/quick-start-with-numpy.png">
@@ -754,7 +772,7 @@ This course will teach you the fundamentals of NumPy, a library that supports ma
 
 [🚀 Start Learning](https://labex.io/courses/quick-start-with-numpy)
 
----
+
 ### 100 NumPy Exercises
 
 <img width="300px" src="https://cover-creator.labex.io/100-numpy-exercises.png">
@@ -763,7 +781,7 @@ NumPy is an extension library for Python language, supporting operations of a la
 
 [🚀 Start Learning](https://labex.io/courses/100-numpy-exercises)
 
----
+
 ### NumPy Practice Plus
 
 <img width="300px" src="https://cover-creator.labex.io/numpy-practice-plus.png">
@@ -771,6 +789,7 @@ NumPy is an extension library for Python language, supporting operations of a la
 In this course, You will practice more labs of NumPy. This will help you to master the skills more deeply.
 
 [🚀 Start Learning](https://labex.io/courses/numpy-practice-plus)
+
 
 
 ---
@@ -788,7 +807,7 @@ scikit-learn is a Python library for machine learning. It provides a wide range 
 |       1 | [Quick Start with scikit-learn](#quick-start-with-scikit-learn) | ★☆☆     | [Repo](https://github.com/labex-labs/quick-start-with-scikit-learn) | [Start Learning](https://labex.io/courses/quick-start-with-scikit-learn) |
 |       2 | [scikit-learn Practice Plus](#scikit-learn-practice-plus)       | ★☆☆     | [Repo](https://github.com/labex-labs/sklearn-practice-plus)         | [Start Learning](https://labex.io/courses/sklearn-practice-plus)         |
 
----
+
 ### Quick Start with scikit-learn
 
 <img width="300px" src="https://cover-creator.labex.io/quick-start-with-scikit-learn.png">
@@ -797,7 +816,7 @@ In this course, We will learn how to use scikit-learn to build predictive models
 
 [🚀 Start Learning](https://labex.io/courses/quick-start-with-scikit-learn)
 
----
+
 ### scikit-learn Practice Plus
 
 <img width="300px" src="https://cover-creator.labex.io/sklearn-practice-plus.png">
@@ -805,6 +824,7 @@ In this course, We will learn how to use scikit-learn to build predictive models
 In this course, You will practice more labs of scikit-learn. This will help you to master the skills more deeply.
 
 [🚀 Start Learning](https://labex.io/courses/sklearn-practice-plus)
+
 
 
 ---
@@ -823,7 +843,7 @@ Matplotlib is a Python library for creating visualizations of data. It provides 
 |       2 | [Seaborn Data Visualization Basics](#seaborn-data-visualization-basics) | ★☆☆     | [Repo](https://github.com/labex-labs/seaborn-data-visualization-basics) | [Start Learning](https://labex.io/courses/seaborn-data-visualization-basics) |
 |       3 | [Matplotlib Practice Plus](#matplotlib-practice-plus)                   | ★☆☆     | [Repo](https://github.com/labex-labs/matplotlib-practice-plus)          | [Start Learning](https://labex.io/courses/matplotlib-practice-plus)          |
 
----
+
 ### Quick Start with Matplotlib
 
 <img width="300px" src="https://cover-creator.labex.io/quick-start-with-matplotlib.png">
@@ -832,7 +852,7 @@ This course is a quick tutorial on Matplotlib, a Python library for drawing 2D a
 
 [🚀 Start Learning](https://labex.io/courses/quick-start-with-matplotlib)
 
----
+
 ### Seaborn Data Visualization Basics
 
 <img width="300px" src="https://cover-creator.labex.io/seaborn-data-visualization-basics.png">
@@ -841,7 +861,7 @@ In this course, you will learn how to use Seaborn, a Python library for producin
 
 [🚀 Start Learning](https://labex.io/courses/seaborn-data-visualization-basics)
 
----
+
 ### Matplotlib Practice Plus
 
 <img width="300px" src="https://cover-creator.labex.io/matplotlib-practice-plus.png">
@@ -849,6 +869,7 @@ In this course, you will learn how to use Seaborn, a Python library for producin
 In this course, You will practice more labs of Matplotlib. This will help you to master the skills more deeply.
 
 [🚀 Start Learning](https://labex.io/courses/matplotlib-practice-plus)
+
 
 
 ---
@@ -866,7 +887,7 @@ HTML is a markup language that is used to create web pages. It is the standard m
 |       1 | [Quick Start with HTML](#quick-start-with-html) | ★☆☆     | [Repo](https://github.com/labex-labs/quick-start-with-html) | [Start Learning](https://labex.io/courses/quick-start-with-html) |
 |       2 | [HTML Practice Plus](#html-practice-plus)       | ★☆☆     | [Repo](https://github.com/labex-labs/html-practice-plus)    | [Start Learning](https://labex.io/courses/html-practice-plus)    |
 
----
+
 ### Quick Start with HTML
 
 <img width="300px" src="https://cover-creator.labex.io/quick-start-with-html.png">
@@ -875,7 +896,7 @@ This course will teach you the basics of HTML. We will begin by covering the bas
 
 [🚀 Start Learning](https://labex.io/courses/quick-start-with-html)
 
----
+
 ### HTML Practice Plus
 
 <img width="300px" src="https://cover-creator.labex.io/html-practice-plus.png">
@@ -883,6 +904,7 @@ This course will teach you the basics of HTML. We will begin by covering the bas
 In this course, You will practice more labs of HTML. This will help you to master the skills more deeply.
 
 [🚀 Start Learning](https://labex.io/courses/html-practice-plus)
+
 
 
 ---
@@ -900,7 +922,7 @@ CSS is a language that describes the style of an HTML document. It's used to mak
 |       1 | [Quick Start with CSS](#quick-start-with-css) | ★☆☆     | [Repo](https://github.com/labex-labs/quick-start-with-css) | [Start Learning](https://labex.io/courses/quick-start-with-css) |
 |       2 | [CSS Practice Plus](#css-practice-plus)       | ★☆☆     | [Repo](https://github.com/labex-labs/css-practice-plus)    | [Start Learning](https://labex.io/courses/css-practice-plus)    |
 
----
+
 ### Quick Start with CSS
 
 <img width="300px" src="https://cover-creator.labex.io/quick-start-with-css.png">
@@ -909,7 +931,7 @@ In this course, you will try to understand the basics of CSS and how to use it t
 
 [🚀 Start Learning](https://labex.io/courses/quick-start-with-css)
 
----
+
 ### CSS Practice Plus
 
 <img width="300px" src="https://cover-creator.labex.io/css-practice-plus.png">
@@ -917,6 +939,7 @@ In this course, you will try to understand the basics of CSS and how to use it t
 In this course, You will practice more labs of CSS. This will help you to master the skills more deeply.
 
 [🚀 Start Learning](https://labex.io/courses/css-practice-plus)
+
 
 
 ---
@@ -935,7 +958,7 @@ JavaScript is a programming language that can be used to create interactive web 
 |       2 | [Quick Start with jQuery](#quick-start-with-jquery)         | ★☆☆     | [Repo](https://github.com/labex-labs/quick-start-with-jquery)     | [Start Learning](https://labex.io/courses/quick-start-with-jquery)     |
 |       3 | [JavaScript Practice Plus](#javascript-practice-plus)       | ★☆☆     | [Repo](https://github.com/labex-labs/javascript-practice-plus)    | [Start Learning](https://labex.io/courses/javascript-practice-plus)    |
 
----
+
 ### Quick Start with JavaScript
 
 <img width="300px" src="https://cover-creator.labex.io/quick-start-with-javascript.png">
@@ -944,7 +967,7 @@ This course is designed for beginners who want to learn JavaScript and programmi
 
 [🚀 Start Learning](https://labex.io/courses/quick-start-with-javascript)
 
----
+
 ### Quick Start with jQuery
 
 <img width="300px" src="https://cover-creator.labex.io/quick-start-with-jquery.png">
@@ -953,7 +976,7 @@ This course is designed to help you get started with jQuery, the most popular Ja
 
 [🚀 Start Learning](https://labex.io/courses/quick-start-with-jquery)
 
----
+
 ### JavaScript Practice Plus
 
 <img width="300px" src="https://cover-creator.labex.io/javascript-practice-plus.png">
@@ -961,6 +984,7 @@ This course is designed to help you get started with jQuery, the most popular Ja
 In this course, You will practice more labs of JavaScript. This will help you to master the skills more deeply.
 
 [🚀 Start Learning](https://labex.io/courses/javascript-practice-plus)
+
 
 
 ---
@@ -978,7 +1002,7 @@ React is a JavaScript library for building user interfaces. It's used by compani
 |       1 | [Get Started with React](#get-started-with-react) | ★☆☆     | [Repo](https://github.com/labex-labs/quick-start-with-react) | [Start Learning](https://labex.io/courses/quick-start-with-react) |
 |       2 | [React Practice Plus](#react-practice-plus)       | ★☆☆     | [Repo](https://github.com/labex-labs/react-practice-plus)    | [Start Learning](https://labex.io/courses/react-practice-plus)    |
 
----
+
 ### Get Started with React
 
 <img width="300px" src="https://cover-creator.labex.io/quick-start-with-react.png">
@@ -987,7 +1011,7 @@ This Course primarily focuses on React fundamentals. It is a collection of React
 
 [🚀 Start Learning](https://labex.io/courses/quick-start-with-react)
 
----
+
 ### React Practice Plus
 
 <img width="300px" src="https://cover-creator.labex.io/react-practice-plus.png">
@@ -995,6 +1019,7 @@ This Course primarily focuses on React fundamentals. It is a collection of React
 In this course, You will practice more labs of React. This will help you to master the skills more deeply.
 
 [🚀 Start Learning](https://labex.io/courses/react-practice-plus)
+
 
 
 ---
@@ -1016,7 +1041,7 @@ Gain practical skills in network mapping with Nmap, packet analysis with Wiresha
 |       5 | [Kali Web Application Attacks in Action](#kali-web-application-attacks-in-action)     | ★☆☆     | [Repo](https://github.com/labex-labs/kali-web-application-attacks-in-action)   | [Start Learning](https://labex.io/courses/kali-web-application-attacks-in-action)   |
 |       6 | [Web Vulnerability Mastery](#web-vulnerability-mastery)                               | ★☆☆     | [Repo](https://github.com/labex-labs/web-vulnerability-mastery)                | [Start Learning](https://labex.io/courses/web-vulnerability-mastery)                |
 
----
+
 ### Quick Start with Nmap
 
 <img width="300px" src="https://cover-creator.labex.io/quick-start-with-nmap.png">
@@ -1025,7 +1050,7 @@ In this course, you will learn about Nmap, a powerful network scanning tool that
 
 [🚀 Start Learning](https://labex.io/courses/quick-start-with-nmap)
 
----
+
 ### Quick Start with Wireshark
 
 <img width="300px" src="https://cover-creator.labex.io/quick-start-with-wireshark.png">
@@ -1034,7 +1059,7 @@ In this course, you will learn how to use Wireshark to capture and analyze netwo
 
 [🚀 Start Learning](https://labex.io/courses/quick-start-with-wireshark)
 
----
+
 ### Privilege Escalation Techniques on Linux
 
 <img width="300px" src="https://cover-creator.labex.io/privilege-escalation-techniques-on-linux.png">
@@ -1043,7 +1068,7 @@ In this course, you will learn about privilege escalation techniques on Linux. I
 
 [🚀 Start Learning](https://labex.io/courses/privilege-escalation-techniques-on-linux)
 
----
+
 ### Kali Server Exploitation in Action
 
 <img width="300px" src="https://cover-creator.labex.io/kali-server-exploitation-in-action.png">
@@ -1052,7 +1077,7 @@ This course covers penetration testing and ethical hacking with Kali Linux. Key 
 
 [🚀 Start Learning](https://labex.io/courses/kali-server-exploitation-in-action)
 
----
+
 ### Kali Web Application Attacks in Action
 
 <img width="300px" src="https://cover-creator.labex.io/kali-web-application-attacks-in-action.png">
@@ -1061,7 +1086,7 @@ In this course, you will learn how to perform web application attacks using Kali
 
 [🚀 Start Learning](https://labex.io/courses/kali-web-application-attacks-in-action)
 
----
+
 ### Web Vulnerability Mastery
 
 <img width="300px" src="https://cover-creator.labex.io/web-vulnerability-mastery.png">
