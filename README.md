@@ -258,31 +258,6 @@ In this course, You will practice more labs of Docker. This will help you to mas
 ---
 
 <div align="center">
-<img width="128px" src="https://file.labex.io/path/vfh4Vv8B8NjB.png">
-</div>
-
-## Alibaba Cloud
-
-Alibaba Cloud is one of the world's largest cloud computing companies, providing scalable, secure, and reliable cloud computing services globally to accelerate digitalization empowered by comprehensive cloud products and solutions.
-
-|   Index | Name                                                        | Level   | Repo                                                            | Link                                                                 |
-|---------|-------------------------------------------------------------|---------|-----------------------------------------------------------------|----------------------------------------------------------------------|
-|       1 | [A Beginner's Guide to LabEx](#a-beginner's-guide-to-labex) | ★☆☆     | [Repo](https://github.com/labex-labs/a-beginner-guide-to-labex) | [Start Learning](https://labex.io/courses/a-beginner-guide-to-labex) |
-
-
-### A Beginner's Guide to LabEx
-
-<img width="300px" src="https://cover-creator.labex.io/a-beginner-guide-to-labex.png">
-
-Welcome to LabEx. This is the first stop of your adventure here, let me show the basic features of LabEx, and teach you how to learn and practice in the LabEx environment. Prepare to be amazed!
-
-[🚀 Start Learning](https://labex.io/courses/a-beginner-guide-to-labex)
-
-
-
----
-
-<div align="center">
 <img width="128px" src="https://file.labex.io/path/RTAa3OE96ESn.png">
 </div>
 
