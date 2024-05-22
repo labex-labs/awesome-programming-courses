@@ -5,7 +5,6 @@ Awesome Programming Courses is a collection of curated learning paths spanning d
 - [Linux](#linux)
 - [Python](#python)
 - [Docker](#docker)
-- [Alibaba Cloud](#alibaba-cloud)
 - [Kubernetes](#kubernetes)
 - [Git](#git)
 - [Ansible](#ansible)
@@ -560,15 +559,15 @@ In this course, You will practice more labs of MySQL. This will help you to mast
 
 Machine learning is the science of programming computers so they can learn from data. It is a subfield of artificial intelligence. Machine learning is closely related to computational statistics, which also focuses on prediction-making through the use of computers. 
 
-|   Index | Name                                                                        | Level   | Repo                                                                     | Link                                                                          |
-|---------|-----------------------------------------------------------------------------|---------|--------------------------------------------------------------------------|-------------------------------------------------------------------------------|
-|       1 | [Supervised Learning: Regression](#supervised-learning:-regression)         | ★★☆     | [Repo](https://github.com/labex-labs/supervised-learning-regression)     | [Start Learning](https://labex.io/courses/supervised-learning-regression)     |
-|       2 | [Supervised Learning: Classification](#supervised-learning:-classification) | ★★☆     | [Repo](https://github.com/labex-labs/supervised-learning-classification) | [Start Learning](https://labex.io/courses/supervised-learning-classification) |
-|       3 | [Unsupervised Learning: Clustering](#unsupervised-learning:-clustering)     | ★★☆     | [Repo](https://github.com/labex-labs/unsupervised-learning-clustering)   | [Start Learning](https://labex.io/courses/unsupervised-learning-clustering)   |
-|       4 | [Quick Start with TensorFlow](#quick-start-with-tensorflow)                 | ★★☆     | [Repo](https://github.com/labex-labs/quick-start-with-tensorflow)        | [Start Learning](https://labex.io/courses/quick-start-with-tensorflow)        |
-|       5 | [Foundations of Deep Learning](#foundations-of-deep-learning)               | ★★☆     | [Repo](https://github.com/labex-labs/foundations-of-deep-learning)       | [Start Learning](https://labex.io/courses/foundations-of-deep-learning)       |
-|       6 | [Quick Start with OpenCV](#quick-start-with-opencv)                         | ★☆☆     | [Repo](https://github.com/labex-labs/quick-start-with-opencv)            | [Start Learning](https://labex.io/courses/quick-start-with-opencv)            |
-|       7 | [Machine Learning Practice Plus](#machine-learning-practice-plus)           | ★☆☆     | [Repo](https://github.com/labex-labs/ml-practice-plus)                   | [Start Learning](https://labex.io/courses/ml-practice-plus)                   |
+|   Index | Name                                                                      | Level   | Repo                                                                     | Link                                                                          |
+|---------|---------------------------------------------------------------------------|---------|--------------------------------------------------------------------------|-------------------------------------------------------------------------------|
+|       1 | [Supervised Learning: Regression](#supervised-learningregression)         | ★★☆     | [Repo](https://github.com/labex-labs/supervised-learning-regression)     | [Start Learning](https://labex.io/courses/supervised-learning-regression)     |
+|       2 | [Supervised Learning: Classification](#supervised-learningclassification) | ★★☆     | [Repo](https://github.com/labex-labs/supervised-learning-classification) | [Start Learning](https://labex.io/courses/supervised-learning-classification) |
+|       3 | [Unsupervised Learning: Clustering](#unsupervised-learningclustering)     | ★★☆     | [Repo](https://github.com/labex-labs/unsupervised-learning-clustering)   | [Start Learning](https://labex.io/courses/unsupervised-learning-clustering)   |
+|       4 | [Quick Start with TensorFlow](#quick-start-with-tensorflow)               | ★★☆     | [Repo](https://github.com/labex-labs/quick-start-with-tensorflow)        | [Start Learning](https://labex.io/courses/quick-start-with-tensorflow)        |
+|       5 | [Foundations of Deep Learning](#foundations-of-deep-learning)             | ★★☆     | [Repo](https://github.com/labex-labs/foundations-of-deep-learning)       | [Start Learning](https://labex.io/courses/foundations-of-deep-learning)       |
+|       6 | [Quick Start with OpenCV](#quick-start-with-opencv)                       | ★☆☆     | [Repo](https://github.com/labex-labs/quick-start-with-opencv)            | [Start Learning](https://labex.io/courses/quick-start-with-opencv)            |
+|       7 | [Machine Learning Practice Plus](#machine-learning-practice-plus)         | ★☆☆     | [Repo](https://github.com/labex-labs/ml-practice-plus)                   | [Start Learning](https://labex.io/courses/ml-practice-plus)                   |
 
 
 ### Supervised Learning: Regression
