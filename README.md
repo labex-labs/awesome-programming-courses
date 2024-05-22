@@ -24,7 +24,7 @@ Linux is one of the most popular operating systems in the world. It is used in e
 
 ### Quick Start with Linux
 
-<img width="128px" src="https://cover-creator.labex.io/quick-start-with-linux.png">
+<img width="300px" src="https://cover-creator.labex.io/quick-start-with-linux.png">
 
 This course is designed for beginners who have no prior knowledge of Linux. It will help you to build a solid foundation of Linux, including basic commands, file management, and permissions. You will also learn how to create and manage user accounts and groups.
 
