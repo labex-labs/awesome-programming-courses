@@ -1,7 +1,7 @@
 
 <div align="center">
   <img width="128px" src="https://file.labex.io/path/k5LXo5b82pJm.png">
-  <h1><a href="https://labex.io/skilltrees/linux">Linux</a></h1>
+  <h1>Linux</h1>
   <p>Linux is one of the most popular operating systems in the world. It is used in everything from desktop computers to servers and even mobile devices. This skill tree will teach you how to use Linux from the command line, as well as some basic system administration tasks like installing software and managing users.</p>
 </div>
 
@@ -17,7 +17,7 @@
 
 <div align="center">
   <img width="128px" src="https://file.labex.io/path/E4pVLzVNCjyM.png">
-  <h1><a href="https://labex.io/skilltrees/python">Python</a></h1>
+  <h1>Python</h1>
   <p>Python is a programming language that has become very popular in recent years. It's used for everything from web development to data science and machine learning. This skill tree will teach you how to use Python from the command line, as well as some basic programming concepts like variables and functions.</p>
 </div>
 
@@ -34,7 +34,7 @@
 
 <div align="center">
   <img width="128px" src="https://file.labex.io/path/X5zPui0XRqNx.png">
-  <h1><a href="https://labex.io/skilltrees/docker">Docker</a></h1>
+  <h1>Docker</h1>
   <p>Docker is a tool that allows you to run applications in containers. Every container has its own isolated environment, so it's easy to deploy and manage your applications. In this skill tree, you'll learn how to use Docker to build and run containers.</p>
 </div>
 
@@ -46,7 +46,7 @@
 
 <div align="center">
   <img width="128px" src="https://file.labex.io/path/vfh4Vv8B8NjB.png">
-  <h1><a href="https://labex.io/skilltrees/alibabacloud">Alibaba Cloud</a></h1>
+  <h1>Alibaba Cloud</h1>
   <p>Alibaba Cloud is one of the world's largest cloud computing companies, providing scalable, secure, and reliable cloud computing services globally to accelerate digitalization empowered by comprehensive cloud products and solutions.</p>
 </div>
 
@@ -56,7 +56,7 @@
 
 <div align="center">
   <img width="128px" src="https://file.labex.io/path/RTAa3OE96ESn.png">
-  <h1><a href="https://labex.io/skilltrees/kubernetes">Kubernetes</a></h1>
+  <h1>Kubernetes</h1>
   <p>Kubernetes is an open-source container orchestration system for automating deployment, scaling, and management of containerized applications. In this skill tree, you'll learn how to use Kubernetes to deploy and manage applications on a cluster of machines.</p>
 </div>
 
@@ -67,7 +67,7 @@
 
 <div align="center">
   <img width="128px" src="https://file.labex.io/path/mlkFQS0wjouP.png">
-  <h1><a href="https://labex.io/skilltrees/git">Git</a></h1>
+  <h1>Git</h1>
   <p>Git is a version control system that allows you to track changes in your code and collaborate with others. It's used by millions of developers around the world, including some of the largest companies in the world. In this skill tree, you'll learn how to use Git to manage your projects and collaborate with others.</p>
 </div>
 
@@ -78,7 +78,7 @@
 
 <div align="center">
   <img width="128px" src="https://file.labex.io/path/PBjrCC7U2Koq.png">
-  <h1><a href="https://labex.io/skilltrees/ansible">Ansible</a></h1>
+  <h1>Ansible</h1>
   <p>Ansible is an open-source software provisioning, configuration management, and application-deployment tool enabling infrastructure as code. It runs on many Unix-like systems, and can configure both Unix-like systems as well as Microsoft Windows. It includes its own declarative language to describe system configuration.</p>
 </div>
 
@@ -88,7 +88,7 @@
 
 <div align="center">
   <img width="128px" src="https://file.labex.io/path/VtELSfa4h1jh.png">
-  <h1><a href="https://labex.io/skilltrees/jenkins">Jenkins</a></h1>
+  <h1>Jenkins</h1>
   <p>Jenkins is a free and open source automation server. Jenkins helps to automate the non-human part of the software development process, with continuous integration and facilitating technical aspects of continuous delivery.</p>
 </div>
 
@@ -98,7 +98,7 @@
 
 <div align="center">
   <img width="128px" src="https://file.labex.io/path/vBtgM8cNsQFn.png">
-  <h1><a href="https://labex.io/skilltrees/java">Java</a></h1>
+  <h1>Java</h1>
   <p>Java is a general-purpose programming language that is class-based, object-oriented, and designed to have as few implementation dependencies as possible. It is intended to let application developers write once, run anywhere (WORA), meaning that compiled Java code can run on all platforms that support Java without the need for recompilation.</p>
 </div>
 
@@ -109,7 +109,7 @@
 
 <div align="center">
   <img width="128px" src="https://file.labex.io/path/uO8R5nWNL4Pg.png">
-  <h1><a href="https://labex.io/skilltrees/hadoop">Hadoop</a></h1>
+  <h1>Hadoop</h1>
   <p>Unlock the power of Hadoop and learn to handle big data across clusters efficiently. Our Skill Tree guides you from Hadoop basics like HDFS and MapReduce to advanced topics such as YARN and Apache Hive. Gain the skills to analyze and manage large datasets, a must-have for any data professional.</p>
 </div>
 
@@ -120,7 +120,7 @@
 
 <div align="center">
   <img width="128px" src="https://file.labex.io/path/kjx58efaCNu0.png">
-  <h1><a href="https://labex.io/skilltrees/cpp">C++</a></h1>
+  <h1>C++</h1>
   <p>In this path, you will learn and practice basic C++ programming. Then, you will implement C++ image processing, C++Web servers, Markdown parsers, memory pools, and Docker container management tools. By completing all the lab courses in this path, you can be able to implement complex applications independently using C++.</p>
 </div>
 
@@ -131,7 +131,7 @@
 
 <div align="center">
   <img width="128px" src="https://file.labex.io/path/GAbMWgBPUOxV.png">
-  <h1><a href="https://labex.io/skilltrees/c">C</a></h1>
+  <h1>C</h1>
   <p>C is a general-purpose, procedural computer programming language supporting structured programming, lexical variable scope, and recursion, with a static type system. By design, C provides constructs that map efficiently to typical machine instructions. It has found lasting use in applications previously coded in assembly language. Such applications include operating systems and various application software for computer architectures that range from supercomputers to PLCs and embedded systems.</p>
 </div>
 
@@ -142,7 +142,7 @@
 
 <div align="center">
   <img width="128px" src="https://file.labex.io/path/amNAVWgtDX5M.png">
-  <h1><a href="https://labex.io/skilltrees/mysql">MySQL</a></h1>
+  <h1>MySQL</h1>
   <p>MySQL is an open-source relational database management system (RDBMS). Its name is a combination of "My", the name of co-founder Michael Widenius's daughter, and "SQL", the abbreviation for Structured Query Language.</p>
 </div>
 
@@ -153,7 +153,7 @@
 
 <div align="center">
   <img width="128px" src="https://file.labex.io/path/1kXLbMH5geSl.png">
-  <h1><a href="https://labex.io/skilltrees/ml">Machine Learning</a></h1>
+  <h1>Machine Learning</h1>
   <p>Machine learning is the science of programming computers so they can learn from data. It is a subfield of artificial intelligence. Machine learning is closely related to computational statistics, which also focuses on prediction-making through the use of computers. </p>
 </div>
 
@@ -169,7 +169,7 @@
 
 <div align="center">
   <img width="128px" src="https://file.labex.io/path/YgASYacMNI6I.png">
-  <h1><a href="https://labex.io/skilltrees/go">Go</a></h1>
+  <h1>Go</h1>
   <p>Golang is an open-source programming language that makes it easy to build simple, reliable, and efficient software. In this skill tree, you'll learn the fundamentals of the language, including the basics of syntax, an introduction to types, and object-oriented programming in Go.</p>
 </div>
 
@@ -180,7 +180,7 @@
 
 <div align="center">
   <img width="128px" src="https://file.labex.io/path/th8WKkH4cFl5.png">
-  <h1><a href="https://labex.io/skilltrees/rust">Rust</a></h1>
+  <h1>Rust</h1>
   <p>Rust is a modern systems programming language focusing on safety, speed, and concurrency. It is syntactically similar to C++, but is designed to provide better memory safety while maintaining high performance.</p>
 </div>
 
@@ -191,7 +191,7 @@
 
 <div align="center">
   <img width="128px" src="https://file.labex.io/path/qhqKKAjZr3K5.png">
-  <h1><a href="https://labex.io/skilltrees/pandas">Pandas</a></h1>
+  <h1>Pandas</h1>
   <p>Pandas is a Python library for data analysis. It provides high-performance, easy-to-use data structures and data analysis tools. In this skill tree, you'll learn how to use Pandas to analyze data in Python.</p>
 </div>
 
@@ -203,7 +203,7 @@
 
 <div align="center">
   <img width="128px" src="https://file.labex.io/path/gdqX0QgXsYjL.png">
-  <h1><a href="https://labex.io/skilltrees/numpy">NumPy</a></h1>
+  <h1>NumPy</h1>
   <p>NumPy is a Python library for scientific computing. It provides fast and efficient multidimensional arrays, as well as a large collection of mathematical functions. In this skill tree, you'll learn how to use NumPy to perform basic operations on arrays of data.</p>
 </div>
 
@@ -215,7 +215,7 @@
 
 <div align="center">
   <img width="128px" src="https://file.labex.io/path/N7q3t9dfWfEY.png">
-  <h1><a href="https://labex.io/skilltrees/sklearn">scikit-learn</a></h1>
+  <h1>scikit-learn</h1>
   <p>scikit-learn is a Python library for machine learning. It provides a wide range of algorithms and tools for data mining and analysis. In this skill tree, you'll learn how to use scikit-learn to build machine learning models in Python.</p>
 </div>
 
@@ -226,7 +226,7 @@
 
 <div align="center">
   <img width="128px" src="https://file.labex.io/path/6PDQ0G40CdCX.png">
-  <h1><a href="https://labex.io/skilltrees/matplotlib">Matplotlib</a></h1>
+  <h1>Matplotlib</h1>
   <p>Matplotlib is a Python library for creating visualizations of data. It provides a wide range of plotting tools, including line plots, scatter plots, bar charts, histograms, and more. In this skill tree, you'll learn how to use Matplotlib to create basic visualizations of data.</p>
 </div>
 
@@ -238,7 +238,7 @@
 
 <div align="center">
   <img width="128px" src="https://file.labex.io/path/NrasuEoAvSam.png">
-  <h1><a href="https://labex.io/skilltrees/html">HTML</a></h1>
+  <h1>HTML</h1>
   <p>HTML is a markup language that is used to create web pages. It is the standard markup language used for creating web pages and web applications. HTML stands for Hyper Text Markup Language. HTML describes the structure of a web page semantically and originally included cues for the appearance of the document.</p>
 </div>
 
@@ -249,7 +249,7 @@
 
 <div align="center">
   <img width="128px" src="https://file.labex.io/path/YheSJQuYYCNJ.png">
-  <h1><a href="https://labex.io/skilltrees/css">CSS</a></h1>
+  <h1>CSS</h1>
   <p>CSS is a language that describes the style of an HTML document. It's used to make web pages look good and work well on different devices. In this skill tree, you'll learn how to use CSS to style your web pages.</p>
 </div>
 
@@ -260,7 +260,7 @@
 
 <div align="center">
   <img width="128px" src="https://file.labex.io/path/ztG7iIXOkx2u.png">
-  <h1><a href="https://labex.io/skilltrees/javascript">JavaScript</a></h1>
+  <h1>JavaScript</h1>
   <p>JavaScript is a programming language that can be used to create interactive web pages. Every modern web browser has built-in support for JavaScript, so it's easy to get started with this skill tree. </p>
 </div>
 
@@ -272,7 +272,7 @@
 
 <div align="center">
   <img width="128px" src="https://file.labex.io/path/nUDMNpUKFvpT.png">
-  <h1><a href="https://labex.io/skilltrees/react">React</a></h1>
+  <h1>React</h1>
   <p>React is a JavaScript library for building user interfaces. It's used by companies like Facebook, Netflix, and Airbnb to create interactive web applications. In this skill tree, you'll learn how to use React to build modern web apps with ease.</p>
 </div>
 
@@ -283,7 +283,7 @@
 
 <div align="center">
   <img width="128px" src="https://file.labex.io/path/Xke24vJbuOBk.png">
-  <h1><a href="https://labex.io/skilltrees/cysec">Cyber Security</a></h1>
+  <h1>Cyber Security</h1>
   <p>Gain practical skills in network mapping with Nmap, packet analysis with Wireshark, and ethical hacking methodologies using Kali Linux. Explore host discovery, port scanning, vulnerability assessments, traffic capture, packet dissection, and a wide range of security tools. Develop hands-on expertise in network reconnaissance, web app testing, wireless hacking, exploitation, and post-exploitation techniques. This comprehensive path equips you with essential InfoSec knowledge to identify risks, conduct ethical hacking assessments, and strengthen organizational security posture.</p>
 </div>
 
