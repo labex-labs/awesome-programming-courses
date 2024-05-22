@@ -33,7 +33,7 @@ Awesome Programming Courses is a collection of curated learning paths spanning d
 ---
 
 <div align="center">
-<img width="96px" src="https://file.labex.io/path/k5LXo5b82pJm.png">
+<img width="128px" src="https://file.labex.io/path/k5LXo5b82pJm.png">
 </div>
 
 ## Linux
@@ -118,7 +118,7 @@ In this course, You will practice more labs of Shell. This will help you to mast
 ---
 
 <div align="center">
-<img width="96px" src="https://file.labex.io/path/k5LXo5b82pJm.png">
+<img width="128px" src="https://file.labex.io/path/E4pVLzVNCjyM.png">
 </div>
 
 ## Python
@@ -213,7 +213,7 @@ This course contains thousands of challenges for Python, each challenge is a sma
 ---
 
 <div align="center">
-<img width="96px" src="https://file.labex.io/path/k5LXo5b82pJm.png">
+<img width="128px" src="https://file.labex.io/path/X5zPui0XRqNx.png">
 </div>
 
 ## Docker
@@ -258,7 +258,7 @@ In this course, You will practice more labs of Docker. This will help you to mas
 ---
 
 <div align="center">
-<img width="96px" src="https://file.labex.io/path/k5LXo5b82pJm.png">
+<img width="128px" src="https://file.labex.io/path/vfh4Vv8B8NjB.png">
 </div>
 
 ## Alibaba Cloud
@@ -283,7 +283,7 @@ Welcome to LabEx. This is the first stop of your adventure here, let me show the
 ---
 
 <div align="center">
-<img width="96px" src="https://file.labex.io/path/k5LXo5b82pJm.png">
+<img width="128px" src="https://file.labex.io/path/RTAa3OE96ESn.png">
 </div>
 
 ## Kubernetes
@@ -318,7 +318,7 @@ In this course, You will practice more labs of Kubernetes. This will help you to
 ---
 
 <div align="center">
-<img width="96px" src="https://file.labex.io/path/k5LXo5b82pJm.png">
+<img width="128px" src="https://file.labex.io/path/mlkFQS0wjouP.png">
 </div>
 
 ## Git
@@ -353,7 +353,7 @@ In this course, You will practice more labs of Git. This will help you to master
 ---
 
 <div align="center">
-<img width="96px" src="https://file.labex.io/path/k5LXo5b82pJm.png">
+<img width="128px" src="https://file.labex.io/path/PBjrCC7U2Koq.png">
 </div>
 
 ## Ansible
@@ -378,7 +378,7 @@ This course is designed to teach you the basics of using Ansible to configure Li
 ---
 
 <div align="center">
-<img width="96px" src="https://file.labex.io/path/k5LXo5b82pJm.png">
+<img width="128px" src="https://file.labex.io/path/VtELSfa4h1jh.png">
 </div>
 
 ## Jenkins
@@ -403,7 +403,7 @@ In this course, you will learn how to install Jenkins on a Linux machine using D
 ---
 
 <div align="center">
-<img width="96px" src="https://file.labex.io/path/k5LXo5b82pJm.png">
+<img width="128px" src="https://file.labex.io/path/vBtgM8cNsQFn.png">
 </div>
 
 ## Java
@@ -438,7 +438,7 @@ In this course, You will practice more labs of Java. This will help you to maste
 ---
 
 <div align="center">
-<img width="96px" src="https://file.labex.io/path/k5LXo5b82pJm.png">
+<img width="128px" src="https://file.labex.io/path/uO8R5nWNL4Pg.png">
 </div>
 
 ## Hadoop
@@ -473,7 +473,7 @@ In this course, You will learn Hadoop in-depth and master Hadoop skills. After c
 ---
 
 <div align="center">
-<img width="96px" src="https://file.labex.io/path/k5LXo5b82pJm.png">
+<img width="128px" src="https://file.labex.io/path/kjx58efaCNu0.png">
 </div>
 
 ## C++
@@ -508,7 +508,7 @@ In this course, You will practice more labs of C++. This will help you to master
 ---
 
 <div align="center">
-<img width="96px" src="https://file.labex.io/path/k5LXo5b82pJm.png">
+<img width="128px" src="https://file.labex.io/path/GAbMWgBPUOxV.png">
 </div>
 
 ## C
@@ -543,7 +543,7 @@ In this course, You will practice more labs of C. This will help you to master t
 ---
 
 <div align="center">
-<img width="96px" src="https://file.labex.io/path/k5LXo5b82pJm.png">
+<img width="128px" src="https://file.labex.io/path/amNAVWgtDX5M.png">
 </div>
 
 ## MySQL
@@ -578,7 +578,7 @@ In this course, You will practice more labs of MySQL. This will help you to mast
 ---
 
 <div align="center">
-<img width="96px" src="https://file.labex.io/path/k5LXo5b82pJm.png">
+<img width="128px" src="https://file.labex.io/path/1kXLbMH5geSl.png">
 </div>
 
 ## Machine Learning
@@ -663,7 +663,7 @@ In this course, You will practice more labs of Machine Learning. This will help 
 ---
 
 <div align="center">
-<img width="96px" src="https://file.labex.io/path/k5LXo5b82pJm.png">
+<img width="128px" src="https://file.labex.io/path/YgASYacMNI6I.png">
 </div>
 
 ## Go
@@ -698,7 +698,7 @@ In this course, You will practice more labs of Go. This will help you to master 
 ---
 
 <div align="center">
-<img width="96px" src="https://file.labex.io/path/k5LXo5b82pJm.png">
+<img width="128px" src="https://file.labex.io/path/th8WKkH4cFl5.png">
 </div>
 
 ## Rust
@@ -733,7 +733,7 @@ In this course, You will practice more labs of Rust. This will help you to maste
 ---
 
 <div align="center">
-<img width="96px" src="https://file.labex.io/path/k5LXo5b82pJm.png">
+<img width="128px" src="https://file.labex.io/path/qhqKKAjZr3K5.png">
 </div>
 
 ## Pandas
@@ -778,7 +778,7 @@ In this course, You will practice more labs of Pandas. This will help you to mas
 ---
 
 <div align="center">
-<img width="96px" src="https://file.labex.io/path/k5LXo5b82pJm.png">
+<img width="128px" src="https://file.labex.io/path/gdqX0QgXsYjL.png">
 </div>
 
 ## NumPy
@@ -823,7 +823,7 @@ In this course, You will practice more labs of NumPy. This will help you to mast
 ---
 
 <div align="center">
-<img width="96px" src="https://file.labex.io/path/k5LXo5b82pJm.png">
+<img width="128px" src="https://file.labex.io/path/N7q3t9dfWfEY.png">
 </div>
 
 ## scikit-learn
@@ -858,7 +858,7 @@ In this course, You will practice more labs of scikit-learn. This will help you 
 ---
 
 <div align="center">
-<img width="96px" src="https://file.labex.io/path/k5LXo5b82pJm.png">
+<img width="128px" src="https://file.labex.io/path/6PDQ0G40CdCX.png">
 </div>
 
 ## Matplotlib
@@ -903,7 +903,7 @@ In this course, You will practice more labs of Matplotlib. This will help you to
 ---
 
 <div align="center">
-<img width="96px" src="https://file.labex.io/path/k5LXo5b82pJm.png">
+<img width="128px" src="https://file.labex.io/path/NrasuEoAvSam.png">
 </div>
 
 ## HTML
@@ -938,7 +938,7 @@ In this course, You will practice more labs of HTML. This will help you to maste
 ---
 
 <div align="center">
-<img width="96px" src="https://file.labex.io/path/k5LXo5b82pJm.png">
+<img width="128px" src="https://file.labex.io/path/YheSJQuYYCNJ.png">
 </div>
 
 ## CSS
@@ -973,7 +973,7 @@ In this course, You will practice more labs of CSS. This will help you to master
 ---
 
 <div align="center">
-<img width="96px" src="https://file.labex.io/path/k5LXo5b82pJm.png">
+<img width="128px" src="https://file.labex.io/path/ztG7iIXOkx2u.png">
 </div>
 
 ## JavaScript
@@ -1018,7 +1018,7 @@ In this course, You will practice more labs of JavaScript. This will help you to
 ---
 
 <div align="center">
-<img width="96px" src="https://file.labex.io/path/k5LXo5b82pJm.png">
+<img width="128px" src="https://file.labex.io/path/nUDMNpUKFvpT.png">
 </div>
 
 ## React
@@ -1053,7 +1053,7 @@ In this course, You will practice more labs of React. This will help you to mast
 ---
 
 <div align="center">
-<img width="96px" src="https://file.labex.io/path/k5LXo5b82pJm.png">
+<img width="128px" src="https://file.labex.io/path/Xke24vJbuOBk.png">
 </div>
 
 ## Cyber Security
