@@ -1,8 +1,8 @@
 # Awesome Programming Courses
 
+# Linux
 
-
-## Linux
+<img width="96px" src="https://file.labex.io/path/k5LXo5b82pJm.png">
 
 Linux is one of the most popular operating systems in the world. It is used in everything from desktop computers to servers and even mobile devices. This skill tree will teach you how to use Linux from the command line, as well as some basic system administration tasks like installing software and managing users.
 
