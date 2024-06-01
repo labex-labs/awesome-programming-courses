@@ -4,26 +4,37 @@ Awesome Programming Courses is a collection of curated learning paths spanning d
 
 - [Linux](#linux)
 - [Python](#python)
+- [DevOps](#devops)
+- [Web Development](#web-development)
+- [Data Science](#data-science)
+- [Big Data](#big-data)
+- [Cyber Security](#cyber-security)
+- [Machine Learning](#machine-learning)
 - [Docker](#docker)
 - [Kubernetes](#kubernetes)
 - [Git](#git)
+- [Ansible](#ansible)
+- [Jenkins](#jenkins)
+- [Shell](#shell)
 - [Java](#java)
 - [Hadoop](#hadoop)
 - [C++](#c++)
 - [C](#c)
 - [MySQL](#mysql)
-- [Machine Learning](#machine-learning)
 - [Go](#go)
 - [Rust](#rust)
+- [OpenCV](#opencv)
+- [Django](#django)
 - [Pandas](#pandas)
 - [NumPy](#numpy)
 - [scikit-learn](#scikit-learn)
 - [Matplotlib](#matplotlib)
+- [Algorithm](#algorithm)
 - [HTML](#html)
 - [CSS](#css)
 - [JavaScript](#javascript)
 - [React](#react)
-- [Cyber Security](#cyber-security)
+- [jQuery](#jquery)
 
 
 
@@ -41,12 +52,9 @@ Linux is one of the most popular operating systems in the world. It is used in e
 |---------|---------------------------------------------------------|---------|------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
 |       1 | [Quick Start with Linux](#quick-start-with-linux)       | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-linux)               | [🚀 Start Learning](https://labex.io/courses/quick-start-with-linux)               |
 |       2 | [Practice Linux Commands](#practice-linux-commands)     | ★★☆     | [🔗 Repo](https://github.com/labex-labs/linux-basic-commands-practice-online) | [🚀 Start Learning](https://labex.io/courses/linux-basic-commands-practice-online) |
-|       3 | [Linux Practice Labs](#linux-practice-labs)             | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/linux-practice-labs)                  | [🚀 Start Learning](https://labex.io/courses/linux-practice-labs)                  |
-|       4 | [Linux Practice Challenges](#linux-practice-challenges) | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/linux-practice-challenges)            | [🚀 Start Learning](https://labex.io/courses/linux-practice-challenges)            |
-|       5 | [Linux for Noobs](#linux-for-noobs)                     | ★★☆     | [🔗 Repo](https://github.com/labex-labs/linux-for-noobs)                      | [🚀 Start Learning](https://labex.io/courses/linux-for-noobs)                      |
-|       6 | [Quick Start with Shell](#quick-start-with-shell)       | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-shell)               | [🚀 Start Learning](https://labex.io/courses/quick-start-with-shell)               |
-|       7 | [Shell Practice Plus](#shell-practice-plus)             | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/shell-practice-plus)                  | [🚀 Start Learning](https://labex.io/courses/shell-practice-plus)                  |
-|       8 | [Linux In-Depth Mastery](#linux-in-depth-mastery)       | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/linux-in-depth-mastery)               | [🚀 Start Learning](https://labex.io/courses/linux-in-depth-mastery)               |
+|       3 | [Linux for Noobs](#linux-for-noobs)                     | ★★☆     | [🔗 Repo](https://github.com/labex-labs/linux-for-noobs)                      | [🚀 Start Learning](https://labex.io/courses/linux-for-noobs)                      |
+|       4 | [Linux Practice Labs](#linux-practice-labs)             | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/linux-practice-labs)                  | [🚀 Start Learning](https://labex.io/courses/linux-practice-labs)                  |
+|       5 | [Linux Practice Challenges](#linux-practice-challenges) | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/linux-practice-challenges)            | [🚀 Start Learning](https://labex.io/courses/linux-practice-challenges)            |
 
 ### More
 
@@ -73,12 +81,162 @@ Python is a programming language that has become very popular in recent years. I
 |       5 | [Quick Start with Django](#quick-start-with-django)           | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-django)      | [🚀 Start Learning](https://labex.io/courses/quick-start-with-django)      |
 |       6 | [Practical Python Programming](#practical-python-programming) | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/practical-python-programming) | [🚀 Start Learning](https://labex.io/courses/practical-python-programming) |
 |       7 | [The Advanced Python Mastery](#the-advanced-python-mastery)   | ★★★     | [🔗 Repo](https://github.com/labex-labs/the-advanced-python-mastery)  | [🚀 Start Learning](https://labex.io/courses/the-advanced-python-mastery)  |
-|       8 | [Python In-Depth Mastery](#python-in-depth-mastery)           | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/python-in-depth-mastery)      | [🚀 Start Learning](https://labex.io/courses/python-in-depth-mastery)      |
 
 ### More
 
 - 🔗 [Python Programming Projects](https://github.com/labex-labs/awesome-programming-projects?tab=readme-ov-file#python)
 - 🔗 [Python Free Tutorials](https://github.com/labex-labs/python-free-tutorials)
+
+
+---
+
+<div align="center">
+<img width="128px" src="https://file.labex.io/path/a3Od9y18p0bV.png">
+</div>
+
+## DevOps
+
+The DevOps learning path involves mastering key technologies such as Linux, Docker, Git, Ansible, Kubernetes, and Jenkins. Understanding Linux fundamentals provides a strong foundation, while Docker enables containerization for scalable deployments. Git facilitates version control for collaborative development. Ansible automates configuration management, Kubernetes manages container orchestration, and Jenkins automates CI/CD pipelines. Continuous learning and hands-on practice with these tools are essential for mastering DevOps principles and practices.
+
+|   Index | Name                                                        | Level   | Repo                                                                | Course Link                                                              |
+|---------|-------------------------------------------------------------|---------|---------------------------------------------------------------------|--------------------------------------------------------------------------|
+|       1 | [Quick Start with Linux](#quick-start-with-linux)           | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-linux)      | [🚀 Start Learning](https://labex.io/courses/quick-start-with-linux)      |
+|       2 | [Quick Start with Git](#quick-start-with-git)               | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-git)        | [🚀 Start Learning](https://labex.io/courses/quick-start-with-git)        |
+|       3 | [Quick Start with Docker](#quick-start-with-docker)         | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-docker)     | [🚀 Start Learning](https://labex.io/courses/quick-start-with-docker)     |
+|       4 | [Quick Start with Kubernetes](#quick-start-with-kubernetes) | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-kubernetes) | [🚀 Start Learning](https://labex.io/courses/quick-start-with-kubernetes) |
+|       5 | [Quick Start with Python](#quick-start-with-python)         | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-python)     | [🚀 Start Learning](https://labex.io/courses/quick-start-with-python)     |
+|       6 | [Quick Start with Jenkins](#quick-start-with-jenkins)       | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-jenkins)    | [🚀 Start Learning](https://labex.io/courses/quick-start-with-jenkins)    |
+|       7 | [Quick Start with Ansible](#quick-start-with-ansible)       | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-ansible)    | [🚀 Start Learning](https://labex.io/courses/quick-start-with-ansible)    |
+|       8 | [Quick Start with Shell](#quick-start-with-shell)           | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-shell)      | [🚀 Start Learning](https://labex.io/courses/quick-start-with-shell)      |
+
+### More
+
+- 🔗 [DevOps Programming Projects](https://github.com/labex-labs/awesome-programming-projects?tab=readme-ov-file#devops)
+- 🔗 [DevOps Free Tutorials](https://github.com/labex-labs/devops-free-tutorials)
+
+
+---
+
+<div align="center">
+<img width="128px" src="https://file.labex.io/path/NHa0nG5axMBE.png">
+</div>
+
+## Web Development
+
+Web development learning path involves mastering core technologies like HTML, CSS, and JavaScript, then progressing to front-end frameworks/libraries like React or Vue.js, as well as back-end languages/frameworks, databases, web servers, version control, testing and deployment. Continuous learning and hands-on practice are key.
+
+|   Index | Name                                                        | Level   | Repo                                                                | Course Link                                                              |
+|---------|-------------------------------------------------------------|---------|---------------------------------------------------------------------|--------------------------------------------------------------------------|
+|       1 | [Quick Start with HTML](#quick-start-with-html)             | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-html)       | [🚀 Start Learning](https://labex.io/courses/quick-start-with-html)       |
+|       2 | [Quick Start with CSS](#quick-start-with-css)               | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-css)        | [🚀 Start Learning](https://labex.io/courses/quick-start-with-css)        |
+|       3 | [Quick Start with JavaScript](#quick-start-with-javascript) | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-javascript) | [🚀 Start Learning](https://labex.io/courses/quick-start-with-javascript) |
+|       4 | [Quick Start with jQuery](#quick-start-with-jquery)         | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-jquery)     | [🚀 Start Learning](https://labex.io/courses/quick-start-with-jquery)     |
+|       5 | [Get Started with React](#get-started-with-react)           | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-react)      | [🚀 Start Learning](https://labex.io/courses/quick-start-with-react)      |
+
+### More
+
+- 🔗 [Web Development Programming Projects](https://github.com/labex-labs/awesome-programming-projects?tab=readme-ov-file#web-development)
+- 🔗 [Web Development Free Tutorials](https://github.com/labex-labs/web-development-free-tutorials)
+
+
+---
+
+<div align="center">
+<img width="128px" src="https://file.labex.io/path/Ctx67nWJaNg4.png">
+</div>
+
+## Data Science
+
+Data Science learning path involves mastering core technologies such as Python programming, statistics, and foundational machine learning concepts. Then, you progress to exploring data processing and visualization tools like Pandas, NumPy, and Matplotlib. Next, you can delve into machine learning frameworks and libraries like Scikit-learn and TensorFlow, as well as knowledge in deep learning. Understanding data engineering aspects is also crucial, including skills in data cleaning, transformation, and storage technologies such as SQL and NoSQL databases. Continuous learning and hands-on practice through solving real-world problems and engaging in projects are essential for skill advancement.
+
+|   Index | Name                                                            | Level   | Repo                                                                  | Course Link                                                                |
+|---------|-----------------------------------------------------------------|---------|-----------------------------------------------------------------------|----------------------------------------------------------------------------|
+|       1 | [Quick Start with Python](#quick-start-with-python)             | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-python)       | [🚀 Start Learning](https://labex.io/courses/quick-start-with-python)       |
+|       2 | [Quick Start with MySQL](#quick-start-with-mysql)               | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-mysql)        | [🚀 Start Learning](https://labex.io/courses/quick-start-with-mysql)        |
+|       3 | [Quick Start with NumPy](#quick-start-with-numpy)               | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-numpy)        | [🚀 Start Learning](https://labex.io/courses/quick-start-with-numpy)        |
+|       4 | [Quick Start with Pandas](#quick-start-with-pandas)             | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-pandas)       | [🚀 Start Learning](https://labex.io/courses/quick-start-with-pandas)       |
+|       5 | [Quick Start with Matplotlib](#quick-start-with-matplotlib)     | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-matplotlib)   | [🚀 Start Learning](https://labex.io/courses/quick-start-with-matplotlib)   |
+|       6 | [Quick Start with scikit-learn](#quick-start-with-scikit-learn) | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-scikit-learn) | [🚀 Start Learning](https://labex.io/courses/quick-start-with-scikit-learn) |
+
+### More
+
+- 🔗 [Data Science Programming Projects](https://github.com/labex-labs/awesome-programming-projects?tab=readme-ov-file#data-science)
+- 🔗 [Data Science Free Tutorials](https://github.com/labex-labs/data-science-free-tutorials)
+
+
+---
+
+<div align="center">
+<img width="128px" src="https://file.labex.io/path/4y59cs2oEeJr.png">
+</div>
+
+## Big Data
+
+The Big Data learning path involves mastering key technologies like Hadoop, Hive, and NoSQL databases. Hadoop provides a foundation for distributed storage and processing, while Hive allows SQL-like querying of large datasets. NoSQL databases enable scalable, flexible data storage. Continuous learning and hands-on practice with these tools are essential for mastering Big Data principles and practices.
+
+|   Index | Name                                                | Level   | Repo                                                            | Course Link                                                          |
+|---------|-----------------------------------------------------|---------|-----------------------------------------------------------------|----------------------------------------------------------------------|
+|       1 | [Quick Start with Java](#quick-start-with-java)     | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-java)   | [🚀 Start Learning](https://labex.io/courses/quick-start-with-java)   |
+|       2 | [Quick Start with Hadoop](#quick-start-with-hadoop) | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-hadoop) | [🚀 Start Learning](https://labex.io/courses/quick-start-with-hadoop) |
+
+### More
+
+- 🔗 [Big Data Programming Projects](https://github.com/labex-labs/awesome-programming-projects?tab=readme-ov-file#bigdata)
+- 🔗 [Big Data Free Tutorials](https://github.com/labex-labs/bigdata-free-tutorials)
+
+
+---
+
+<div align="center">
+<img width="128px" src="https://file.labex.io/path/Xke24vJbuOBk.png">
+</div>
+
+## Cyber Security
+
+Gain practical skills in network mapping with Nmap, packet analysis with Wireshark, and ethical hacking methodologies using Kali Linux. Explore host discovery, port scanning, vulnerability assessments, traffic capture, packet dissection, and a wide range of security tools. Develop hands-on expertise in network reconnaissance, web app testing, wireless hacking, exploitation, and post-exploitation techniques. This comprehensive path equips you with essential InfoSec knowledge to identify risks, conduct ethical hacking assessments, and strengthen organizational security posture.
+
+|   Index | Name                                                                                  | Level   | Repo                                                                             | Course Link                                                                           |
+|---------|---------------------------------------------------------------------------------------|---------|----------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
+|       1 | [Quick Start with Nmap](#quick-start-with-nmap)                                       | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-nmap)                    | [🚀 Start Learning](https://labex.io/courses/quick-start-with-nmap)                    |
+|       2 | [Quick Start with Wireshark](#quick-start-with-wireshark)                             | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-wireshark)               | [🚀 Start Learning](https://labex.io/courses/quick-start-with-wireshark)               |
+|       3 | [Privilege Escalation Techniques on Linux](#privilege-escalation-techniques-on-linux) | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/privilege-escalation-techniques-on-linux) | [🚀 Start Learning](https://labex.io/courses/privilege-escalation-techniques-on-linux) |
+|       4 | [Kali Server Exploitation in Action](#kali-server-exploitation-in-action)             | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/kali-server-exploitation-in-action)       | [🚀 Start Learning](https://labex.io/courses/kali-server-exploitation-in-action)       |
+|       5 | [Kali Web Application Attacks in Action](#kali-web-application-attacks-in-action)     | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/kali-web-application-attacks-in-action)   | [🚀 Start Learning](https://labex.io/courses/kali-web-application-attacks-in-action)   |
+|       6 | [Web Vulnerability Mastery](#web-vulnerability-mastery)                               | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/web-vulnerability-mastery)                | [🚀 Start Learning](https://labex.io/courses/web-vulnerability-mastery)                |
+
+### More
+
+- 🔗 [Cyber Security Programming Projects](https://github.com/labex-labs/awesome-programming-projects?tab=readme-ov-file#cysec)
+- 🔗 [Cyber Security Free Tutorials](https://github.com/labex-labs/cysec-free-tutorials)
+
+
+---
+
+<div align="center">
+<img width="128px" src="https://file.labex.io/path/1kXLbMH5geSl.png">
+</div>
+
+## Machine Learning
+
+Machine learning is the science of programming computers so they can learn from data. It is a subfield of artificial intelligence. Machine learning is closely related to computational statistics, which also focuses on prediction-making through the use of computers. 
+
+|   Index | Name                                                                          | Level   | Repo                                                                       | Course Link                                                                     |
+|---------|-------------------------------------------------------------------------------|---------|----------------------------------------------------------------------------|---------------------------------------------------------------------------------|
+|      01 | [Quick Start with Python](#quick-start-with-python)                           | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-python)            | [🚀 Start Learning](https://labex.io/courses/quick-start-with-python)            |
+|      02 | [Quick Start with scikit-learn](#quick-start-with-scikit-learn)               | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-scikit-learn)      | [🚀 Start Learning](https://labex.io/courses/quick-start-with-scikit-learn)      |
+|      03 | [Quick Start with TensorFlow](#quick-start-with-tensorflow)                   | ★★☆     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-tensorflow)        | [🚀 Start Learning](https://labex.io/courses/quick-start-with-tensorflow)        |
+|      04 | [Quick Start with OpenCV](#quick-start-with-opencv)                           | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-opencv)            | [🚀 Start Learning](https://labex.io/courses/quick-start-with-opencv)            |
+|      05 | [Supervised Learning: Regression](#supervised-learning-regression)            | ★★☆     | [🔗 Repo](https://github.com/labex-labs/supervised-learning-regression)     | [🚀 Start Learning](https://labex.io/courses/supervised-learning-regression)     |
+|      06 | [Supervised Learning: Classification](#supervised-learning-classification)    | ★★☆     | [🔗 Repo](https://github.com/labex-labs/supervised-learning-classification) | [🚀 Start Learning](https://labex.io/courses/supervised-learning-classification) |
+|      07 | [Unsupervised Learning: Clustering](#unsupervised-learning-clustering)        | ★★☆     | [🔗 Repo](https://github.com/labex-labs/unsupervised-learning-clustering)   | [🚀 Start Learning](https://labex.io/courses/unsupervised-learning-clustering)   |
+|      08 | [Foundations of Deep Learning](#foundations-of-deep-learning)                 | ★★☆     | [🔗 Repo](https://github.com/labex-labs/foundations-of-deep-learning)       | [🚀 Start Learning](https://labex.io/courses/foundations-of-deep-learning)       |
+|      09 | [Machine Learning Practice Labs](#machine-learning-practice-labs)             | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/ml-practice-labs)                   | [🚀 Start Learning](https://labex.io/courses/ml-practice-labs)                   |
+|      10 | [Machine Learning Practice Challenges](#machine-learning-practice-challenges) | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/ml-practice-challenges)             | [🚀 Start Learning](https://labex.io/courses/ml-practice-challenges)             |
+
+### More
+
+- 🔗 [Machine Learning Programming Projects](https://github.com/labex-labs/awesome-programming-projects?tab=readme-ov-file#ml)
+- 🔗 [Machine Learning Free Tutorials](https://github.com/labex-labs/ml-free-tutorials)
 
 
 ---
@@ -96,7 +254,6 @@ Docker is a tool that allows you to run applications in containers. Every contai
 |       1 | [Quick Start with Docker](#quick-start-with-docker)       | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-docker)    | [🚀 Start Learning](https://labex.io/courses/quick-start-with-docker)    |
 |       2 | [Docker Practice Labs](#docker-practice-labs)             | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/docker-practice-labs)       | [🚀 Start Learning](https://labex.io/courses/docker-practice-labs)       |
 |       3 | [Docker Practice Challenges](#docker-practice-challenges) | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/docker-practice-challenges) | [🚀 Start Learning](https://labex.io/courses/docker-practice-challenges) |
-|       4 | [Docker In-Depth Mastery](#docker-in-depth-mastery)       | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/docker-in-depth-mastery)    | [🚀 Start Learning](https://labex.io/courses/docker-in-depth-mastery)    |
 
 ### More
 
@@ -151,6 +308,68 @@ Git is a version control system that allows you to track changes in your code an
 ---
 
 <div align="center">
+<img width="128px" src="https://file.labex.io/path/PBjrCC7U2Koq.png">
+</div>
+
+## Ansible
+
+Ansible is an open-source software provisioning, configuration management, and application-deployment tool enabling infrastructure as code. It runs on many Unix-like systems, and can configure both Unix-like systems as well as Microsoft Windows. It includes its own declarative language to describe system configuration.
+
+|   Index | Name                                                  | Level   | Repo                                                             | Course Link                                                           |
+|---------|-------------------------------------------------------|---------|------------------------------------------------------------------|-----------------------------------------------------------------------|
+|       1 | [Quick Start with Ansible](#quick-start-with-ansible) | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-ansible) | [🚀 Start Learning](https://labex.io/courses/quick-start-with-ansible) |
+
+### More
+
+- 🔗 [Ansible Programming Projects](https://github.com/labex-labs/awesome-programming-projects?tab=readme-ov-file#ansible)
+- 🔗 [Ansible Free Tutorials](https://github.com/labex-labs/ansible-free-tutorials)
+
+
+---
+
+<div align="center">
+<img width="128px" src="https://file.labex.io/path/VtELSfa4h1jh.png">
+</div>
+
+## Jenkins
+
+Jenkins is a free and open source automation server. Jenkins helps to automate the non-human part of the software development process, with continuous integration and facilitating technical aspects of continuous delivery.
+
+|   Index | Name                                                  | Level   | Repo                                                             | Course Link                                                           |
+|---------|-------------------------------------------------------|---------|------------------------------------------------------------------|-----------------------------------------------------------------------|
+|       1 | [Quick Start with Jenkins](#quick-start-with-jenkins) | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-jenkins) | [🚀 Start Learning](https://labex.io/courses/quick-start-with-jenkins) |
+
+### More
+
+- 🔗 [Jenkins Programming Projects](https://github.com/labex-labs/awesome-programming-projects?tab=readme-ov-file#jenkins)
+- 🔗 [Jenkins Free Tutorials](https://github.com/labex-labs/jenkins-free-tutorials)
+
+
+---
+
+<div align="center">
+<img width="128px" src="https://file.labex.io/path/FaVTnI4iqZP0.png">
+</div>
+
+## Shell
+
+Shell is a user interface for access to an operating system's services. In general, operating system shells use either a command-line interface (CLI) or graphical user interface (GUI), depending on a computer's role and particular operation.
+
+|   Index | Name                                                    | Level   | Repo                                                              | Course Link                                                            |
+|---------|---------------------------------------------------------|---------|-------------------------------------------------------------------|------------------------------------------------------------------------|
+|       1 | [Quick Start with Shell](#quick-start-with-shell)       | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-shell)    | [🚀 Start Learning](https://labex.io/courses/quick-start-with-shell)    |
+|       2 | [Shell Practice Labs](#shell-practice-labs)             | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/shell-practice-labs)       | [🚀 Start Learning](https://labex.io/courses/shell-practice-labs)       |
+|       3 | [Shell Practice Challenges](#shell-practice-challenges) | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/shell-practice-challenges) | [🚀 Start Learning](https://labex.io/courses/shell-practice-challenges) |
+
+### More
+
+- 🔗 [Shell Programming Projects](https://github.com/labex-labs/awesome-programming-projects?tab=readme-ov-file#shell)
+- 🔗 [Shell Free Tutorials](https://github.com/labex-labs/shell-free-tutorials)
+
+
+---
+
+<div align="center">
 <img width="128px" src="https://file.labex.io/path/vBtgM8cNsQFn.png">
 </div>
 
@@ -185,7 +404,6 @@ Unlock the power of Hadoop and learn to handle big data across clusters efficien
 |       1 | [Quick Start with Hadoop](#quick-start-with-hadoop)       | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-hadoop)    | [🚀 Start Learning](https://labex.io/courses/quick-start-with-hadoop)    |
 |       2 | [Hadoop Practice Labs](#hadoop-practice-labs)             | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/hadoop-practice-labs)       | [🚀 Start Learning](https://labex.io/courses/hadoop-practice-labs)       |
 |       3 | [Hadoop Practice Challenges](#hadoop-practice-challenges) | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/hadoop-practice-challenges) | [🚀 Start Learning](https://labex.io/courses/hadoop-practice-challenges) |
-|       4 | [Hadoop In-Depth Mastery](#hadoop-in-depth-mastery)       | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/hadoop-in-depth-mastery)    | [🚀 Start Learning](https://labex.io/courses/hadoop-in-depth-mastery)    |
 
 ### More
 
@@ -262,34 +480,6 @@ MySQL is an open-source relational database management system (RDBMS). Its name 
 ---
 
 <div align="center">
-<img width="128px" src="https://file.labex.io/path/1kXLbMH5geSl.png">
-</div>
-
-## Machine Learning
-
-Machine learning is the science of programming computers so they can learn from data. It is a subfield of artificial intelligence. Machine learning is closely related to computational statistics, which also focuses on prediction-making through the use of computers. 
-
-|   Index | Name                                                                          | Level   | Repo                                                                       | Course Link                                                                     |
-|---------|-------------------------------------------------------------------------------|---------|----------------------------------------------------------------------------|---------------------------------------------------------------------------------|
-|       1 | [Quick Start with scikit-learn](#quick-start-with-scikit-learn)               | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-scikit-learn)      | [🚀 Start Learning](https://labex.io/courses/quick-start-with-scikit-learn)      |
-|       2 | [Quick Start with TensorFlow](#quick-start-with-tensorflow)                   | ★★☆     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-tensorflow)        | [🚀 Start Learning](https://labex.io/courses/quick-start-with-tensorflow)        |
-|       3 | [Quick Start with OpenCV](#quick-start-with-opencv)                           | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-opencv)            | [🚀 Start Learning](https://labex.io/courses/quick-start-with-opencv)            |
-|       4 | [Supervised Learning: Regression](#supervised-learning-regression)            | ★★☆     | [🔗 Repo](https://github.com/labex-labs/supervised-learning-regression)     | [🚀 Start Learning](https://labex.io/courses/supervised-learning-regression)     |
-|       5 | [Supervised Learning: Classification](#supervised-learning-classification)    | ★★☆     | [🔗 Repo](https://github.com/labex-labs/supervised-learning-classification) | [🚀 Start Learning](https://labex.io/courses/supervised-learning-classification) |
-|       6 | [Unsupervised Learning: Clustering](#unsupervised-learning-clustering)        | ★★☆     | [🔗 Repo](https://github.com/labex-labs/unsupervised-learning-clustering)   | [🚀 Start Learning](https://labex.io/courses/unsupervised-learning-clustering)   |
-|       7 | [Foundations of Deep Learning](#foundations-of-deep-learning)                 | ★★☆     | [🔗 Repo](https://github.com/labex-labs/foundations-of-deep-learning)       | [🚀 Start Learning](https://labex.io/courses/foundations-of-deep-learning)       |
-|       8 | [Machine Learning Practice Labs](#machine-learning-practice-labs)             | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/ml-practice-labs)                   | [🚀 Start Learning](https://labex.io/courses/ml-practice-labs)                   |
-|       9 | [Machine Learning Practice Challenges](#machine-learning-practice-challenges) | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/ml-practice-challenges)             | [🚀 Start Learning](https://labex.io/courses/ml-practice-challenges)             |
-
-### More
-
-- 🔗 [Machine Learning Programming Projects](https://github.com/labex-labs/awesome-programming-projects?tab=readme-ov-file#ml)
-- 🔗 [Machine Learning Free Tutorials](https://github.com/labex-labs/ml-free-tutorials)
-
-
----
-
-<div align="center">
 <img width="128px" src="https://file.labex.io/path/YgASYacMNI6I.png">
 </div>
 
@@ -328,6 +518,46 @@ Rust is a modern systems programming language focusing on safety, speed, and con
 
 - 🔗 [Rust Programming Projects](https://github.com/labex-labs/awesome-programming-projects?tab=readme-ov-file#rust)
 - 🔗 [Rust Free Tutorials](https://github.com/labex-labs/rust-free-tutorials)
+
+
+---
+
+<div align="center">
+<img width="128px" src="https://file.labex.io/path/pQ75vSY2Oubi.png">
+</div>
+
+## OpenCV
+
+OpenCV is a library of programming functions mainly aimed at real-time computer vision. Originally developed by Intel, it was later supported by Willow Garage then Itseez. The library is cross-platform and free for use under the open-source BSD license.
+
+|   Index | Name                                                | Level   | Repo                                                            | Course Link                                                          |
+|---------|-----------------------------------------------------|---------|-----------------------------------------------------------------|----------------------------------------------------------------------|
+|       1 | [Quick Start with OpenCV](#quick-start-with-opencv) | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-opencv) | [🚀 Start Learning](https://labex.io/courses/quick-start-with-opencv) |
+
+### More
+
+- 🔗 [OpenCV Programming Projects](https://github.com/labex-labs/awesome-programming-projects?tab=readme-ov-file#opencv)
+- 🔗 [OpenCV Free Tutorials](https://github.com/labex-labs/opencv-free-tutorials)
+
+
+---
+
+<div align="center">
+<img width="128px" src="https://file.labex.io/path/5fCrFZGQGQMH.png">
+</div>
+
+## Django
+
+Django is a Python-based free and open-source web framework, which follows the model-template-view architectural pattern. It is maintained by the Django Software Foundation, an independent organization established as a 501 non-profit.
+
+|   Index | Name                                                | Level   | Repo                                                            | Course Link                                                          |
+|---------|-----------------------------------------------------|---------|-----------------------------------------------------------------|----------------------------------------------------------------------|
+|       1 | [Quick Start with Django](#quick-start-with-django) | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-django) | [🚀 Start Learning](https://labex.io/courses/quick-start-with-django) |
+
+### More
+
+- 🔗 [Django Programming Projects](https://github.com/labex-labs/awesome-programming-projects?tab=readme-ov-file#django)
+- 🔗 [Django Free Tutorials](https://github.com/labex-labs/django-free-tutorials)
 
 
 ---
@@ -423,6 +653,26 @@ Matplotlib is a Python library for creating visualizations of data. It provides 
 ---
 
 <div align="center">
+<img width="128px" src="https://file.labex.io/path/FXuseQI6SAeI.png">
+</div>
+
+## Algorithm
+
+Welcome to the Algorithm. You will learn how to design and implement efficient algorithms using Python. You will explore various algorithmic techniques such as sorting, searching, and graph traversal, and gain hands-on experience by solving real-world problems. 
+
+|   Index | Name                                                      | Level   | Repo                                                               | Course Link                                                             |
+|---------|-----------------------------------------------------------|---------|--------------------------------------------------------------------|-------------------------------------------------------------------------|
+|       1 | [Quick Start with Algorithm](#quick-start-with-algorithm) | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-algorithm) | [🚀 Start Learning](https://labex.io/courses/quick-start-with-algorithm) |
+
+### More
+
+- 🔗 [Algorithm Programming Projects](https://github.com/labex-labs/awesome-programming-projects?tab=readme-ov-file#algorithm)
+- 🔗 [Algorithm Free Tutorials](https://github.com/labex-labs/algorithm-free-tutorials)
+
+
+---
+
+<div align="center">
 <img width="128px" src="https://file.labex.io/path/NrasuEoAvSam.png">
 </div>
 
@@ -512,24 +762,19 @@ React is a JavaScript library for building user interfaces. It's used by compani
 ---
 
 <div align="center">
-<img width="128px" src="https://file.labex.io/path/Xke24vJbuOBk.png">
+<img width="128px" src="https://file.labex.io/path/gZnWhysfwRvq.png">
 </div>
 
-## Cyber Security
+## jQuery
 
-Gain practical skills in network mapping with Nmap, packet analysis with Wireshark, and ethical hacking methodologies using Kali Linux. Explore host discovery, port scanning, vulnerability assessments, traffic capture, packet dissection, and a wide range of security tools. Develop hands-on expertise in network reconnaissance, web app testing, wireless hacking, exploitation, and post-exploitation techniques. This comprehensive path equips you with essential InfoSec knowledge to identify risks, conduct ethical hacking assessments, and strengthen organizational security posture.
+jQuery is a JavaScript library designed to simplify HTML DOM tree traversal and manipulation, as well as event handling, CSS animation, and Ajax. It is free, open-source software using the permissive MIT License.
 
-|   Index | Name                                                                                  | Level   | Repo                                                                             | Course Link                                                                           |
-|---------|---------------------------------------------------------------------------------------|---------|----------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
-|       1 | [Quick Start with Nmap](#quick-start-with-nmap)                                       | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-nmap)                    | [🚀 Start Learning](https://labex.io/courses/quick-start-with-nmap)                    |
-|       2 | [Quick Start with Wireshark](#quick-start-with-wireshark)                             | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-wireshark)               | [🚀 Start Learning](https://labex.io/courses/quick-start-with-wireshark)               |
-|       3 | [Privilege Escalation Techniques on Linux](#privilege-escalation-techniques-on-linux) | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/privilege-escalation-techniques-on-linux) | [🚀 Start Learning](https://labex.io/courses/privilege-escalation-techniques-on-linux) |
-|       4 | [Kali Server Exploitation in Action](#kali-server-exploitation-in-action)             | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/kali-server-exploitation-in-action)       | [🚀 Start Learning](https://labex.io/courses/kali-server-exploitation-in-action)       |
-|       5 | [Kali Web Application Attacks in Action](#kali-web-application-attacks-in-action)     | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/kali-web-application-attacks-in-action)   | [🚀 Start Learning](https://labex.io/courses/kali-web-application-attacks-in-action)   |
-|       6 | [Web Vulnerability Mastery](#web-vulnerability-mastery)                               | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/web-vulnerability-mastery)                | [🚀 Start Learning](https://labex.io/courses/web-vulnerability-mastery)                |
+|   Index | Name                                                | Level   | Repo                                                            | Course Link                                                          |
+|---------|-----------------------------------------------------|---------|-----------------------------------------------------------------|----------------------------------------------------------------------|
+|       1 | [Quick Start with jQuery](#quick-start-with-jquery) | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-jquery) | [🚀 Start Learning](https://labex.io/courses/quick-start-with-jquery) |
 
 ### More
 
-- 🔗 [Cyber Security Programming Projects](https://github.com/labex-labs/awesome-programming-projects?tab=readme-ov-file#cysec)
-- 🔗 [Cyber Security Free Tutorials](https://github.com/labex-labs/cysec-free-tutorials)
+- 🔗 [jQuery Programming Projects](https://github.com/labex-labs/awesome-programming-projects?tab=readme-ov-file#jquery)
+- 🔗 [jQuery Free Tutorials](https://github.com/labex-labs/jquery-free-tutorials)
 
