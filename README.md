@@ -2,8 +2,8 @@
         
 Awesome Programming Courses collects 114 of programming courses for different skill trees. It offers comprehensive courses and hands-on labs tailored for learners of all levels, from students to professionals and enthusiasts.
 
-| Skill Tree                                                           | Name             |   Courses | Repo                                                                                              |
-|----------------------------------------------------------------------|------------------|-----------|---------------------------------------------------------------------------------------------------|
+| Skill Tree                                                           | Name             |   Courses | Repo                                                                                             |
+|----------------------------------------------------------------------|------------------|-----------|--------------------------------------------------------------------------------------------------|
 | <img width='64px' src='https://file.labex.io/path/k5LXo5b82pJm.png'> | Linux            |         5 | [🔗 Practice Courses](https://github.com/labex-labs/practice-linux-programming-courses)           |
 | <img width='64px' src='https://file.labex.io/path/E4pVLzVNCjyM.png'> | Python           |         7 | [🔗 Practice Courses](https://github.com/labex-labs/practice-python-programming-courses)          |
 | <img width='64px' src='https://file.labex.io/path/a3Od9y18p0bV.png'> | DevOps           |         8 | [🔗 Practice Courses](https://github.com/labex-labs/practice-devops-programming-courses)          |
