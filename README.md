@@ -1,10 +1,10 @@
 # Awesome Programming Courses
         
-Awesome Programming Courses collects 114 of programming courses for different skill trees. It offers comprehensive courses and hands-on labs tailored for learners of all levels, from students to professionals and enthusiasts.
+Awesome Programming Courses collects 116 of programming courses for different skill trees. It offers comprehensive courses and hands-on labs tailored for learners of all levels, from students to professionals and enthusiasts.
 
 | Skill Tree                                                           | Name             |   Courses | Repo                                                                                         |
 |----------------------------------------------------------------------|------------------|-----------|----------------------------------------------------------------------------------------------|
-| <img width='64px' src='https://file.labex.io/path/k5LXo5b82pJm.png'> | Linux            |         5 | [🔗 View Courses](https://github.com/labex-labs/practice-linux-programming-courses)           |
+| <img width='64px' src='https://file.labex.io/path/k5LXo5b82pJm.png'> | Linux            |         8 | [🔗 View Courses](https://github.com/labex-labs/practice-linux-programming-courses)           |
 | <img width='64px' src='https://file.labex.io/path/E4pVLzVNCjyM.png'> | Python           |         7 | [🔗 View Courses](https://github.com/labex-labs/practice-python-programming-courses)          |
 | <img width='64px' src='https://file.labex.io/path/a3Od9y18p0bV.png'> | DevOps           |         8 | [🔗 View Courses](https://github.com/labex-labs/practice-devops-programming-courses)          |
 | <img width='64px' src='https://file.labex.io/path/NHa0nG5axMBE.png'> | Web Development  |         5 | [🔗 View Courses](https://github.com/labex-labs/practice-web-development-programming-courses) |
@@ -14,7 +14,7 @@ Awesome Programming Courses collects 114 of programming courses for different sk
 | <img width='64px' src='https://file.labex.io/path/1kXLbMH5geSl.png'> | Machine Learning |        10 | [🔗 View Courses](https://github.com/labex-labs/practice-ml-programming-courses)              |
 | <img width='64px' src='https://file.labex.io/path/X5zPui0XRqNx.png'> | Docker           |         3 | [🔗 View Courses](https://github.com/labex-labs/practice-docker-programming-courses)          |
 | <img width='64px' src='https://file.labex.io/path/RTAa3OE96ESn.png'> | Kubernetes       |         3 | [🔗 View Courses](https://github.com/labex-labs/practice-kubernetes-programming-courses)      |
-| <img width='64px' src='https://file.labex.io/path/mlkFQS0wjouP.png'> | Git              |         3 | [🔗 View Courses](https://github.com/labex-labs/practice-git-programming-courses)             |
+| <img width='64px' src='https://file.labex.io/path/mlkFQS0wjouP.png'> | Git              |         2 | [🔗 View Courses](https://github.com/labex-labs/practice-git-programming-courses)             |
 | <img width='64px' src='https://file.labex.io/path/PBjrCC7U2Koq.png'> | Ansible          |         1 | [🔗 View Courses](https://github.com/labex-labs/practice-ansible-programming-courses)         |
 | <img width='64px' src='https://file.labex.io/path/VtELSfa4h1jh.png'> | Jenkins          |         1 | [🔗 View Courses](https://github.com/labex-labs/practice-jenkins-programming-courses)         |
 | <img width='64px' src='https://file.labex.io/path/FaVTnI4iqZP0.png'> | Shell            |         3 | [🔗 View Courses](https://github.com/labex-labs/practice-shell-programming-courses)           |
