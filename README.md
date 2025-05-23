@@ -1,31 +1,31 @@
 # Awesome Programming Courses
 
-Awesome Programming Courses collects 197 of programming courses for different skill trees. It offers comprehensive courses and hands-on labs tailored for learners of all levels, from students to professionals and enthusiasts.
+Awesome Programming Courses collects 114 of programming courses for different skill trees. It offers comprehensive courses and hands-on labs tailored for learners of all levels, from students to professionals and enthusiasts.
 
 | Skill Tree                                                           | Name             |   Courses | Repo                                                                                          |
 |----------------------------------------------------------------------|------------------|-----------|-----------------------------------------------------------------------------------------------|
-| <img width='64px' src='https://file.labex.io/path/k5LXo5b82pJm.png'> | Linux            |        14 | [🔗 View Courses](https://github.com/labex-labs/practice-linux-programming-courses)           |
+| <img width='64px' src='https://file.labex.io/path/k5LXo5b82pJm.png'> | Linux            |         6 | [🔗 View Courses](https://github.com/labex-labs/practice-linux-programming-courses)           |
 | <img width='64px' src='https://file.labex.io/path/a3Od9y18p0bV.png'> | DevOps           |         8 | [🔗 View Courses](https://github.com/labex-labs/practice-devops-programming-courses)          |
 | <img width='64px' src='https://file.labex.io/path/Xke24vJbuOBk.png'> | Cybersecurity    |         8 | [🔗 View Courses](https://github.com/labex-labs/practice-cybersecurity-programming-courses)   |
 | <img width='64px' src='https://file.labex.io/path/S2s0kYPxCISr.png'> | Database         |         5 | [🔗 View Courses](https://github.com/labex-labs/practice-database-programming-courses)        |
-| <img width='64px' src='https://file.labex.io/path/E4pVLzVNCjyM.png'> | Python           |        14 | [🔗 View Courses](https://github.com/labex-labs/practice-python-programming-courses)          |
-| <img width='64px' src='https://file.labex.io/path/X5zPui0XRqNx.png'> | Docker           |         5 | [🔗 View Courses](https://github.com/labex-labs/practice-docker-programming-courses)          |
+| <img width='64px' src='https://file.labex.io/path/E4pVLzVNCjyM.png'> | Python           |         3 | [🔗 View Courses](https://github.com/labex-labs/practice-python-programming-courses)          |
+| <img width='64px' src='https://file.labex.io/path/X5zPui0XRqNx.png'> | Docker           |         3 | [🔗 View Courses](https://github.com/labex-labs/practice-docker-programming-courses)          |
 | <img width='64px' src='https://file.labex.io/path/RTAa3OE96ESn.png'> | Kubernetes       |         2 | [🔗 View Courses](https://github.com/labex-labs/practice-kubernetes-programming-courses)      |
-| <img width='64px' src='https://file.labex.io/path/mlkFQS0wjouP.png'> | Git              |         3 | [🔗 View Courses](https://github.com/labex-labs/practice-git-programming-courses)             |
-| <img width='64px' src='https://file.labex.io/path/FaVTnI4iqZP0.png'> | Shell            |        22 | [🔗 View Courses](https://github.com/labex-labs/practice-shell-programming-courses)           |
+| <img width='64px' src='https://file.labex.io/path/mlkFQS0wjouP.png'> | Git              |         2 | [🔗 View Courses](https://github.com/labex-labs/practice-git-programming-courses)             |
+| <img width='64px' src='https://file.labex.io/path/FaVTnI4iqZP0.png'> | Shell            |         3 | [🔗 View Courses](https://github.com/labex-labs/practice-shell-programming-courses)           |
 | <img width='64px' src='https://file.labex.io/path/pPoL1KPkCT9I.png'> | Nmap             |         2 | [🔗 View Courses](https://github.com/labex-labs/practice-nmap-programming-courses)            |
 | <img width='64px' src='https://file.labex.io/path/OuFutztV2dPZ.png'> | Wireshark        |         2 | [🔗 View Courses](https://github.com/labex-labs/practice-wireshark-programming-courses)       |
 | <img width='64px' src='https://file.labex.io/path/fqzGODJFWPbL.png'> | Hydra            |         2 | [🔗 View Courses](https://github.com/labex-labs/practice-hydra-programming-courses)           |
-| <img width='64px' src='https://file.labex.io/path/vBtgM8cNsQFn.png'> | Java             |         7 | [🔗 View Courses](https://github.com/labex-labs/practice-java-programming-courses)            |
+| <img width='64px' src='https://file.labex.io/path/vBtgM8cNsQFn.png'> | Java             |         2 | [🔗 View Courses](https://github.com/labex-labs/practice-java-programming-courses)            |
 | <img width='64px' src='https://file.labex.io/path/4y59cs2oEeJr.png'> | Big Data         |         2 | [🔗 View Courses](https://github.com/labex-labs/practice-bigdata-programming-courses)         |
 | <img width='64px' src='https://file.labex.io/path/yNOqpRQSmPL4.png'> | SQLite           |         2 | [🔗 View Courses](https://github.com/labex-labs/practice-sqlite-programming-courses)          |
 | <img width='64px' src='https://file.labex.io/path/9xEeZgWSNpHA.png'> | PostgreSQL       |         2 | [🔗 View Courses](https://github.com/labex-labs/practice-postgresql-programming-courses)      |
-| <img width='64px' src='https://file.labex.io/path/3JJy1bOBmUoZ.png'> | MySQL            |        14 | [🔗 View Courses](https://github.com/labex-labs/practice-mysql-programming-courses)           |
+| <img width='64px' src='https://file.labex.io/path/3JJy1bOBmUoZ.png'> | MySQL            |         2 | [🔗 View Courses](https://github.com/labex-labs/practice-mysql-programming-courses)           |
 | <img width='64px' src='https://file.labex.io/path/4MMYfz8sH7hJ.png'> | Redis            |         2 | [🔗 View Courses](https://github.com/labex-labs/practice-redis-programming-courses)           |
 | <img width='64px' src='https://file.labex.io/path/iL7seSYd8jLs.png'> | MongoDB          |         1 | [🔗 View Courses](https://github.com/labex-labs/practice-mongodb-programming-courses)         |
-| <img width='64px' src='https://file.labex.io/path/YgASYacMNI6I.png'> | Golang           |         6 | [🔗 View Courses](https://github.com/labex-labs/practice-go-programming-courses)              |
-| <img width='64px' src='https://file.labex.io/path/kjx58efaCNu0.png'> | C++              |         3 | [🔗 View Courses](https://github.com/labex-labs/practice-cpp-programming-courses)             |
-| <img width='64px' src='https://file.labex.io/path/GAbMWgBPUOxV.png'> | C                |        20 | [🔗 View Courses](https://github.com/labex-labs/practice-c-programming-courses)               |
+| <img width='64px' src='https://file.labex.io/path/YgASYacMNI6I.png'> | Golang           |         1 | [🔗 View Courses](https://github.com/labex-labs/practice-go-programming-courses)              |
+| <img width='64px' src='https://file.labex.io/path/kjx58efaCNu0.png'> | C++              |         1 | [🔗 View Courses](https://github.com/labex-labs/practice-cpp-programming-courses)             |
+| <img width='64px' src='https://file.labex.io/path/GAbMWgBPUOxV.png'> | C                |         2 | [🔗 View Courses](https://github.com/labex-labs/practice-c-programming-courses)               |
 | <img width='64px' src='https://file.labex.io/path/PBjrCC7U2Koq.png'> | Ansible          |         1 | [🔗 View Courses](https://github.com/labex-labs/practice-ansible-programming-courses)         |
 | <img width='64px' src='https://file.labex.io/path/Ctx67nWJaNg4.png'> | Data Science     |         7 | [🔗 View Courses](https://github.com/labex-labs/practice-data-science-programming-courses)    |
 | <img width='64px' src='https://file.labex.io/path/1kXLbMH5geSl.png'> | Machine Learning |        10 | [🔗 View Courses](https://github.com/labex-labs/practice-ml-programming-courses)              |
