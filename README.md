@@ -1,20 +1,20 @@
 # Awesome Programming Courses
 
-Awesome Programming Courses collects 102 of programming courses for different skill trees. It offers comprehensive courses and hands-on labs tailored for learners of all levels, from students to professionals and enthusiasts.
+Awesome Programming Courses collects 106 of programming courses for different skill trees. It offers comprehensive courses and hands-on labs tailored for learners of all levels, from students to professionals and enthusiasts.
 
 | Skill Tree                                                           | Name                     |   Courses | Repo                                                                                          |
 |----------------------------------------------------------------------|--------------------------|-----------|-----------------------------------------------------------------------------------------------|
-| <img width='64px' src='https://file.labex.io/path/k5LXo5b82pJm.png'> | Linux                    |         8 | [🔗 View Courses](https://github.com/labex-labs/practice-linux-programming-courses)           |
-| <img width='64px' src='https://file.labex.io/path/a3Od9y18p0bV.png'> | DevOps                   |         9 | [🔗 View Courses](https://github.com/labex-labs/practice-devops-programming-courses)          |
-| <img width='64px' src='https://file.labex.io/path/Xke24vJbuOBk.png'> | Cybersecurity            |        10 | [🔗 View Courses](https://github.com/labex-labs/practice-cybersecurity-programming-courses)   |
+| <img width='64px' src='https://file.labex.io/path/k5LXo5b82pJm.png'> | Linux                    |         7 | [🔗 View Courses](https://github.com/labex-labs/practice-linux-programming-courses)           |
+| <img width='64px' src='https://file.labex.io/path/a3Od9y18p0bV.png'> | DevOps                   |        10 | [🔗 View Courses](https://github.com/labex-labs/practice-devops-programming-courses)          |
+| <img width='64px' src='https://file.labex.io/path/Xke24vJbuOBk.png'> | Cybersecurity            |        13 | [🔗 View Courses](https://github.com/labex-labs/practice-cybersecurity-programming-courses)   |
 | <img width='64px' src='https://file.labex.io/path/nJIFH3qqCckt.png'> | Kali Linux               |         2 | [🔗 View Courses](https://github.com/labex-labs/practice-kali-programming-courses)            |
 | <img width='64px' src='https://file.labex.io/path/S2s0kYPxCISr.png'> | Database                 |         5 | [🔗 View Courses](https://github.com/labex-labs/practice-database-programming-courses)        |
 | <img width='64px' src='https://file.labex.io/path/Ctx67nWJaNg4.png'> | Data Science             |         7 | [🔗 View Courses](https://github.com/labex-labs/practice-data-science-programming-courses)    |
 | <img width='64px' src='https://file.labex.io/path/r7hHlDvORmjS.png'> | Red Hat Enterprise Linux |         4 | [🔗 View Courses](https://github.com/labex-labs/practice-rhel-programming-courses)            |
-| <img width='64px' src='https://file.labex.io/path/ZbzxjVKrvgFc.png'> | CompTIA                  |         3 | [🔗 View Courses](https://github.com/labex-labs/practice-comptia-programming-courses)         |
+| <img width='64px' src='https://file.labex.io/path/ZbzxjVKrvgFc.png'> | CompTIA                  |         4 | [🔗 View Courses](https://github.com/labex-labs/practice-comptia-programming-courses)         |
 | <img width='64px' src='https://file.labex.io/path/X5zPui0XRqNx.png'> | Docker                   |         3 | [🔗 View Courses](https://github.com/labex-labs/practice-docker-programming-courses)          |
 | <img width='64px' src='https://file.labex.io/path/RTAa3OE96ESn.png'> | Kubernetes               |         2 | [🔗 View Courses](https://github.com/labex-labs/practice-kubernetes-programming-courses)      |
-| <img width='64px' src='https://file.labex.io/path/E4pVLzVNCjyM.png'> | Python                   |         4 | [🔗 View Courses](https://github.com/labex-labs/practice-python-programming-courses)          |
+| <img width='64px' src='https://file.labex.io/path/E4pVLzVNCjyM.png'> | Python                   |         3 | [🔗 View Courses](https://github.com/labex-labs/practice-python-programming-courses)          |
 | <img width='64px' src='https://file.labex.io/path/mlkFQS0wjouP.png'> | Git                      |         2 | [🔗 View Courses](https://github.com/labex-labs/practice-git-programming-courses)             |
 | <img width='64px' src='https://file.labex.io/path/FaVTnI4iqZP0.png'> | Shell                    |         2 | [🔗 View Courses](https://github.com/labex-labs/practice-shell-programming-courses)           |
 | <img width='64px' src='https://file.labex.io/path/pPoL1KPkCT9I.png'> | Nmap                     |         2 | [🔗 View Courses](https://github.com/labex-labs/practice-nmap-programming-courses)            |
@@ -30,7 +30,7 @@ Awesome Programming Courses collects 102 of programming courses for different sk
 | <img width='64px' src='https://file.labex.io/path/kjx58efaCNu0.png'> | C++                      |         1 | [🔗 View Courses](https://github.com/labex-labs/practice-cpp-programming-courses)             |
 | <img width='64px' src='https://file.labex.io/path/GAbMWgBPUOxV.png'> | C                        |         1 | [🔗 View Courses](https://github.com/labex-labs/practice-c-programming-courses)               |
 | <img width='64px' src='https://file.labex.io/path/VtELSfa4h1jh.png'> | Jenkins                  |         1 | [🔗 View Courses](https://github.com/labex-labs/practice-jenkins-programming-courses)         |
-| <img width='64px' src='https://file.labex.io/path/PBjrCC7U2Koq.png'> | Ansible                  |         1 | [🔗 View Courses](https://github.com/labex-labs/practice-ansible-programming-courses)         |
+| <img width='64px' src='https://file.labex.io/path/PBjrCC7U2Koq.png'> | Ansible                  |         2 | [🔗 View Courses](https://github.com/labex-labs/practice-ansible-programming-courses)         |
 | <img width='64px' src='https://file.labex.io/path/qhqKKAjZr3K5.png'> | Pandas                   |         3 | [🔗 View Courses](https://github.com/labex-labs/practice-pandas-programming-courses)          |
 | <img width='64px' src='https://file.labex.io/path/gdqX0QgXsYjL.png'> | NumPy                    |         3 | [🔗 View Courses](https://github.com/labex-labs/practice-numpy-programming-courses)           |
 | <img width='64px' src='https://file.labex.io/path/N7q3t9dfWfEY.png'> | scikit-learn             |         2 | [🔗 View Courses](https://github.com/labex-labs/practice-sklearn-programming-courses)         |
